@@ -2,6 +2,6 @@
 
 [PLACEHOLDER]
 
-# Licensing
+## Licensing
 
 [PLACEHOLDER]
