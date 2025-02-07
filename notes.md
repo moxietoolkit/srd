@@ -38,7 +38,7 @@ The root-level "srd.md" file should contain the text of the SRD in its entirety,
 
 The content itself is laid in sections, each with as many subsections as needed. Use the checkboxes to track progress in SRD completion.
 
-_At the moment, **(11 of 76)** sections are done._
+_At the moment, **(25 of 76)** sections are done._
 
 - [ ] Player Rules
   - [x] Playing With Moxie
@@ -52,20 +52,20 @@ _At the moment, **(11 of 76)** sections are done._
     - [x] Teamwork
     - [x] Setup
     - [x] Outside Assistance
-  - [ ] Dice Rolls
-    - [ ] Action Roll
-    - [ ] Defense Roll
-    - [ ] Montage Roll
-  - [ ] Diminishing Pools
-  - [ ] Vantage
-  - [ ] Character Details
-    - [ ] Background
-    - [ ] Traits
-    - [ ] Desires
-    - [ ] Features
-    - [ ] Talents
-    - [ ] Stats
-    - [ ] Bonds
+  - [x] Dice Rolls
+    - [x] Action Roll
+    - [x] Defense Roll
+    - [x] Montage Roll
+  - [x] Diminishing Pools
+  - [x] Vantage
+  - [x] Character Details
+    - [x] Background
+    - [x] Traits
+    - [x] Desires
+    - [x] Features
+    - [x] Talents
+    - [x] Stats
+    - [x] Bonds
   - [ ] Creative Freedom
     - [ ] Set Dressing
     - [ ] Tangles
