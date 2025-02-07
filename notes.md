@@ -38,20 +38,20 @@ The root-level "srd.md" file should contain the text of the SRD in its entirety,
 
 The content itself is laid in sections, each with as many subsections as needed. Use the checkboxes to track progress in SRD completion.
 
-_At the moment, **(1 of 76)** sections are done._
+_At the moment, **(11 of 76)** sections are done._
 
 - [ ] Player Rules
   - [x] Playing With Moxie
-  - [ ] Core Rules
-    - [ ] Core Mechanic
-    - [ ] Spark
-    - [ ] Thorns
-    - [ ] Smooth Flow
-  - [ ] Teamwork
-    - [ ] Assist
-    - [ ] Teamwork
-    - [ ] Setup
-    - [ ] Outside Assistance
+  - [x] Core Rules
+    - [x] Core Mechanic
+    - [x] Spark
+    - [x] Thorns
+    - [x] Smooth Flow
+  - [x] Teamwork
+    - [x] Assist
+    - [x] Teamwork
+    - [x] Setup
+    - [x] Outside Assistance
   - [ ] Dice Rolls
     - [ ] Action Roll
     - [ ] Defense Roll
