@@ -38,7 +38,7 @@ The root-level "srd.md" file should contain the text of the SRD in its entirety,
 
 The content itself is laid in sections, each with as many subsections as needed. Use the checkboxes to track progress in SRD completion.
 
-_At the moment, **(25 of 76)** sections are done._
+_At the moment, **(29 of 76)** sections are done._
 
 - [ ] Player Rules
   - [x] Playing With Moxie
@@ -66,10 +66,10 @@ _At the moment, **(25 of 76)** sections are done._
     - [x] Talents
     - [x] Stats
     - [x] Bonds
-  - [ ] Creative Freedom
-    - [ ] Set Dressing
-    - [ ] Tangles
-    - [ ] Story
+  - [x] Creative Freedom
+    - [x] Set Dressing
+    - [x] Tangles
+    - [x] Story
   - [ ] Story Arcs
   - [ ] Damage
     - [ ] Marks
