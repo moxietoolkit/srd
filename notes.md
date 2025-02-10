@@ -38,7 +38,7 @@ The root-level "srd.md" file should contain the text of the SRD in its entirety,
 
 The content itself is laid in sections, each with as many subsections as needed. Use the checkboxes to track progress in SRD completion.
 
-_At the moment, **(52 of 76)** sections are done._
+_At the moment, **(67 of 76)** sections are done._
 
 - [x] Player Rules
   - [x] Playing With Moxie
@@ -93,25 +93,27 @@ _At the moment, **(52 of 76)** sections are done._
     - [x] Pre-Session Recap
     - [x] Post-Session XP
 - [ ] GM Rules
-  - [ ] GMing With Moxie
-  - [ ] Moves
-    - [ ] Prompts
-    - [ ] Suspense
-    - [ ] Hit With Impact
-      - [ ] Consequences
-      - [ ] Splitting It
-      - [ ] Spreading It
-      - [ ] Thinking Offscreen
-      - [ ] Using Pools
-      - [ ] Setting Risk
-      - [ ] Taking Suspense
+  - [x] Running Moxie
+    - [x] Story Rolls
+    - [x] Crucibles
+  - [x] Moves
+    - [x] Prompts
+    - [x] Suspense
+    - [x] Hit With Impact
+      - [x] Consequences
+      - [x] Splitting It
+      - [x] Spreading It
+      - [x] Thinking Offscreen
+      - [x] Using Pools
+      - [x] Setting Risk
+      - [x] Taking Suspense
     - [ ] Story Moves
     - [ ] Suspense Moves
     - [ ] Impact Moves
-  - [ ] Story Rolls
   - [ ] Challenges
   - [ ] Vigilance
   - [ ] Combat
     - [ ] Combat Kits
     - [ ] Running Combats
   - [ ] Factions
+  - [x] GM With Moxie
