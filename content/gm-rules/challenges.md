@@ -34,3 +34,11 @@ Challenges are for moments of narrative importance. They make whatever you assig
 ## Linked Challenges
 
 **Linked challenges** are greater, more complex interactions, like epicly powerful enemies or unbelievably tense social situations. Each part of the whole has its own proactive presence in the scene. Give them traits that prompt impact moves, triggered by the fiction for dynamic interactions.
+
+## Examples
+
+- **8d | _Boss Guy_ | 2 suspense**
+  - **Traits**: _Ruthless_
+  - **Moves**: _Big Weapon_, _Command Subordinates_
+  - **Fail States**:
+    - _He Gets What He Wants_
