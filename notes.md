@@ -36,89 +36,58 @@ Regarding Markdown:
 
 The root-level "srd.md" file should contain the text of the SRD in its entirety, with linting disabled and without comments.
 
-The content itself is laid in sections, each with as many subsections as needed. Use the checkboxes to track progress in SRD completion.
+The content itself is laid in sections, each with as many subsections as needed. Use the templates below to see this layout in full and make changes.
 
-_At the moment, **(71 of 76)** sections are done._
+```markdown
+# Player Rules
 
-- [x] Player Rules
-  - [x] Playing With Moxie
-  - [x] Core Rules
-    - [x] Core Mechanic
-    - [x] Spark
-    - [x] Thorns
-    - [x] Smooth Flow
-  - [x] Teamwork
-    - [x] Assist
-    - [x] Teamwork
-    - [x] Setup
-    - [x] Outside Assistance
-  - [x] Dice Rolls
-    - [x] Action Roll
-    - [x] Defense Roll
-    - [x] Montage Roll
-  - [x] Diminishing Pools
-  - [x] Vantage
-  - [x] Character Details
-    - [x] Background
-    - [x] Traits
-    - [x] Desires
-    - [x] Features
-    - [x] Talents
-    - [x] Stats
-    - [x] Bonds
-  - [x] Creative Freedom
-    - [x] Set Dressing
-    - [x] Tangles
-    - [x] Story
-  - [x] Story Arcs
-  - [x] Damage
-    - [x] Marks
-    - [x] Harm
-    - [x] Conditions
-    - [x] Vex
-  - [x] Recovery
-    - [x] Healing
-    - [x] Rest
-    - [x] Downtime
-  - [x] Odds & Ends
-    - [x] Potency
-    - [x] Power Pools
-    - [x] Buffs
-    - [x] Quarrels
-    - [x] Push Yourself
-    - [x] Interrupt
-    - [x] Always
-    - [x] Level
-  - [x] Beginning & Ending Sessions
-    - [x] Pre-Session Recap
-    - [x] Post-Session XP
-- [ ] GM Rules
-  - [x] Running Moxie
-    - [x] Story Rolls
-    - [x] Crucibles
-  - [x] Moves
-    - [x] Prompts
-    - [x] Suspense
-    - [x] Hit With Impact
-      - [x] Consequences
-      - [x] Splitting It
-      - [x] Spreading It
-      - [x] Thinking Offscreen
-      - [x] Using Pools
-      - [x] Setting Risk
-      - [x] Taking Suspense
-    - [x] Story Moves
-    - [x] Suspense Moves
-    - [x] Impact Moves
-  - [x] Challenges
-  - [ ] Vigilance
-  - [ ] Combat
-    - [ ] Combat Kits
-    - [ ] Running Combats
-  - [ ] Factions
-  - [x] GM With Moxie
+## Playing With Moxie
+
+## Core Rules
+
+## Working Together
+
+## Dice Rolls
+
+## Dimishing Pools
+
+## Vantage
+
+## Character Details
+
+## Creative Freedom
+
+## Story Arcs
+
+## Damage
+
+## Recovery
+
+## Odds And Ends
+
+## Beginning And Ending Sessions
+```
+
+```markdown
+# GM Rules
+
+## Running Moxie
+
+## Moves
+
+## Challenges
+
+## Vigilance
+
+## Combat
+
+## Factions
+
+## GM With Moxie
+```
 
 ## TODO
 
-- [ ] Come up with a way to represent **challenges** in markdown.
-- [ ] Add examples to `challenges.md` - they're exceptionally useful here.
+- [ ] Come up with a way to represent **linked challenges** in markdown.
+- [ ] Add linked challenge examples to `challenges.md` - they're exceptionally useful here.
+- [ ] Modules.
