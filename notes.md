@@ -49,7 +49,7 @@ The content itself is laid in sections, each with as many subsections as needed.
 
 ## Dice Rolls
 
-## Dimishing Pools
+## Diminishing Pools
 
 ## Vantage
 
@@ -91,3 +91,5 @@ The content itself is laid in sections, each with as many subsections as needed.
 - [ ] Come up with a way to represent **linked challenges** in markdown.
 - [ ] Add linked challenge examples to `challenges.md` - they're exceptionally useful here.
 - [ ] Modules.
+  - [ ] Spellcasting, Treasure and Combat should be modules.
+  - [ ] Rules for Combat when Spellcasting is involved should be in Spellcasting module.
