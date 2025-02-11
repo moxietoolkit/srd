@@ -38,7 +38,7 @@ The root-level "srd.md" file should contain the text of the SRD in its entirety,
 
 The content itself is laid in sections, each with as many subsections as needed. Use the checkboxes to track progress in SRD completion.
 
-_At the moment, **(70 of 76)** sections are done._
+_At the moment, **(71 of 76)** sections are done._
 
 - [x] Player Rules
   - [x] Playing With Moxie
@@ -110,10 +110,15 @@ _At the moment, **(70 of 76)** sections are done._
     - [x] Story Moves
     - [x] Suspense Moves
     - [x] Impact Moves
-  - [ ] Challenges
+  - [x] Challenges
   - [ ] Vigilance
   - [ ] Combat
     - [ ] Combat Kits
     - [ ] Running Combats
   - [ ] Factions
   - [x] GM With Moxie
+
+## TODO
+
+- [ ] Come up with a way to represent **challenges** in markdown.
+- [ ] Add examples to `challenges.md` - they're exceptionally useful here.
