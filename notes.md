@@ -79,17 +79,9 @@ The content itself is laid in sections, each with as many subsections as needed.
 
 ## Vigilance
 
-## Combat
-
 ## Factions
 
 ## GM With Moxie
 ```
 
-## TODO
-
-- [ ] Come up with a way to represent **linked challenges** in markdown.
-- [ ] Add linked challenge examples to `challenges.md` - they're exceptionally useful here.
-- [ ] Modules.
-  - [ ] Spellcasting, Treasure and Combat should be modules.
-  - [ ] Rules for Combat when Spellcasting is involved should be in Spellcasting module.
+Content from books that is not found in the core SRD rules can most likely be found in the **Modules** directory - Due to module's specificity, they're not included in the standard compiled document, but are nonetheless made available as drop-in rules for anyone to use.
