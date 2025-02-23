@@ -1,0 +1,25 @@
+{
+  "name": "moxietoolkit",
+  "version": "1.0.0",
+  "description": "System Reference Document for the Moxie RPG",
+  "homepage": "https://github.com/moxietoolkit/srd#readme",
+  "bugs": {
+    "url": "https://github.com/moxietoolkit/srd/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moxietoolkit/srd.git"
+  },
+  "license": "CC-BY-4.0",
+  "author": "Randy Oest, PedroGaya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "generate-full-srd": "node scripts/build-srd.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "docx": "^9.2.0",
+    "marked": "^15.0.7"
+  }
+}
