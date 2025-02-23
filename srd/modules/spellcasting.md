@@ -1,4 +1,7 @@
-# Spellcasting
+---
+title: 'Spellcasting'
+sourcebook: 'Grimwild'
+---
 
 **Spellcasting** is the ability to harness magic, acquired through talents or arcana. While each style has its quirks, they all follow the same _laws of magic_. Spells are cast using **touchstones** — key terms like spell names, godly domains, or item descriptions. You interpret these on-the-fly, defining the permissions and limitations of your magic when you cast. Each source clearly defines its touchstones, casting methods, and costs.
 

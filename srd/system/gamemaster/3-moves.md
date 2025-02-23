@@ -1,4 +1,7 @@
-# Moves
+---
+title: 'Moves'
+sourcebook: 'Grimwild'
+---
 
 A framework for good GMing practices and **_the rules that you, the GM, play by_**. While they can be called out specificallym they typically sit in the background left unsaid, aligning naturally with what you do as GM.
 

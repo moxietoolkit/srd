@@ -1,4 +1,7 @@
-# Playing With Moxie
+---
+title: 'Playing With Moxie'
+sourcebook: 'Grimwild'
+---
 
 <!--
 This section was taken almost verbatim from Grimwild.

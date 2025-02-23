@@ -1,4 +1,7 @@
-# Working Together
+---
+title: 'Working Together'
+sourcebook: 'Grimwild'
+---
 
 ## Assist
 

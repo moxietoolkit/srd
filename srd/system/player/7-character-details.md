@@ -1,4 +1,7 @@
-# Character Details
+---
+title: 'Character Details'
+sourcebook: 'Grimwild'
+---
 
 ## Background
 

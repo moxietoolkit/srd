@@ -1,10 +1,7 @@
-# Narrative Weight
-
-<!--
-
-In the book, the above header is simply "Vantage". This is dumb, and Max is thinking about a different name for this header (07-Feb-2024).
-
--->
+---
+title: 'Narrative Weight'
+sourcebook: 'Grimwild'
+---
 
 ## Vantage
 

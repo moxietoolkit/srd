@@ -1,4 +1,7 @@
-# GM With Moxie
+---
+title: 'GM With Moxie'
+sourcebook: 'Grimwild'
+---
 
 ## Map Fiction To Rules
 

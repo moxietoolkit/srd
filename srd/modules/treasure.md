@@ -1,4 +1,7 @@
-# Treasure
+---
+title: 'Treasure'
+sourcebook: 'Grimwild'
+---
 
 Treasure is the currency of an adventurer, useful in trade with the powerful entities in the world to further your own aims. Your skills put you beyond worrying about the expenses of daily life and adventuring gear.
 

@@ -1,4 +1,7 @@
-# Factions
+---
+title: 'Factions'
+sourcebook: 'Grimwild'
+---
 
 Track off-screen developments of major forces, creating a feeling of a living world beyond the PCs. They have:
 

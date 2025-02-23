@@ -1,4 +1,7 @@
-# Core Rules
+---
+title: 'Core Rules'
+sourcebook: 'Grimwild'
+---
 
 ## Core Mechanic
 

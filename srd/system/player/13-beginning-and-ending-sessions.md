@@ -1,4 +1,7 @@
-# Beginning & Ending Sessions
+---
+title: 'Beginning & Ending Sessions'
+sourcebook: 'Grimwild'
+---
 
 ## Pre-Session Recap
 

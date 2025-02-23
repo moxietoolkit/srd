@@ -1,4 +1,7 @@
-# Diminishing Pools
+---
+title: 'Diminishing Pools'
+sourcebook: 'Grimwild'
+---
 
 ## Pools
 

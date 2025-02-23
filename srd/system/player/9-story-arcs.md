@@ -1,4 +1,7 @@
-# Story Arcs
+---
+title: 'Story Arcs'
+sourcebook: 'Grimwild'
+---
 
 Evocative phrases that give your PC and group a thematic direction. Find out where they lead through play - they're a starting direction, not the destination.
 

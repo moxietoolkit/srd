@@ -1,4 +1,7 @@
-# Dice Rolls
+---
+title: 'Dice Rolls'
+sourcebook: 'Grimwild'
+---
 
 ## Action Roll
 

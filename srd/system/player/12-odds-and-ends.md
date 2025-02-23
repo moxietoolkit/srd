@@ -1,4 +1,7 @@
-# Odds & Ends
+---
+title: 'Odds & Ends'
+sourcebook: 'Grimwild'
+---
 
 ## Potency
 

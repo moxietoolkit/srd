@@ -1,4 +1,7 @@
-# Challenges
+---
+title: 'Challenges'
+sourcebook: 'Grimwild'
+---
 
 A framework to represent **_tasks_**, **_obstacles_**, **_enemies_**, and scenarios that have greater tenacity and complexity than a single action can accomplish. **Challenges** allow you to track progress towards them, but also proactively oppose the PCs. Each has **_2 bonus suspense_** to be spent on moves relating to it, and a **_task pool_** to represent its tenacity or complexity. They can also have:
 

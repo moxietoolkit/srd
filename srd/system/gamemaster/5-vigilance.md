@@ -1,4 +1,7 @@
-# Vigilance
+---
+title: 'Vigilance'
+sourcebook: 'Grimwild'
+---
 
 The assumed alertness of the PCs, avoiding overly cautious gameplay to keep the focus on the action.
 

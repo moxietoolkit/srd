@@ -1,4 +1,7 @@
-# Recovery
+---
+title: 'Recovery'
+sourcebook: 'Grimwild'
+---
 
 ## Healing
 

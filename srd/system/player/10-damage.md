@@ -1,4 +1,7 @@
-# Damage
+---
+title: 'Damage'
+sourcebook: 'Grimwild'
+---
 
 ## Marks
 

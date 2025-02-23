@@ -1,4 +1,7 @@
-# Combat
+---
+title: 'Combat'
+sourcebook: 'Grimwild'
+---
 
 ## Combat Kit
 

@@ -1,4 +1,7 @@
-# Creative Freedom
+---
+title: 'Creative Freedom'
+sourcebook: 'Grimwild'
+---
 
 ## Set Dressing
 
