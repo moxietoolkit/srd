@@ -16,10 +16,23 @@
   "main": "index.js",
   "scripts": {
     "generate-full-srd": "node scripts/build-srd.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "lint:md": "markdownlint \"source/**/*.md\"",
+    "lint:md:fix": "markdownlint --fix \"source/**/*.md\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
     "docx": "^9.2.0",
+    "eslint-config-wesbos": "^4.3.2",
     "marked": "^15.0.7"
+  },
+  "eslintConfig": {
+    "extends": [
+      "wesbos"
+    ]
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.44.0"
   }
 }
