@@ -1,6 +1,6 @@
 - name: Flesh Wounds
   type: basic
-  path: barbarian
+  path: beserker
   sourcebook: Grimwild
   description: |
     When you take physical damage, only a disaster can drop you. You can get bloodied multiple times. Each extra time inflicts +1t on rolls and increases your heal pool by 4d. These extra thorns can never be ignored.
