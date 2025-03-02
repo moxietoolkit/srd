@@ -1,0 +1,10 @@
+- name: Windcaller
+  type: basic
+  path: druid
+  sourcebook: Grimwild
+  description: |
+    Your voice carries on the winds over great distances. You can **push yourself** to summon or dismiss, but not control: _dense fog_—_diving temperatures_—_heavy rain_—_snowfall_—_strong winds_—_thunder_. You don't need anchors on weather rituals.
+  feature:
+    - name: Push
+      type: checkbox
+      refresh: session

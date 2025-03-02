@@ -1,0 +1,27 @@
+- name: Primordial Bonds
+  type: basic
+  path: druid
+  sourcebook: Grimwild
+  description: |
+    You have bonds with the elements: **_Air_**, **_Earth_**, **_Fire_**, and **_Water_**. You have spellcasting, rolling Presence to call on an element, which serves as the touchstone. You can call on each element once per session, or twice if your bond is **_deep_**. Mark two usages of a single element to cast a potent spell. Combine usages of two elements to take +1d and both touchstones on the roll.
+  feature:
+    - name: Air
+      type: track
+      refresh: session
+      min: 1
+      max: 2
+    - name: Earth
+      type: track
+      refresh: session
+      min: 1
+      max: 2
+    - name: Fire
+      type: track
+      refresh: session
+      min: 1
+      max: 2
+    - name: Water
+      type: track
+      refresh: session
+      min: 1
+      max: 2

@@ -1,0 +1,6 @@
+- name: Regrowth
+  type: basic
+  path: druid
+  sourcebook: Grimwild
+  description: |
+    When you heal bloodied, drop 1d then roll it. You can also give yourself treatment if you have _time_, no roll required.
