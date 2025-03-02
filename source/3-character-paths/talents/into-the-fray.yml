@@ -1,0 +1,6 @@
+- name: Into the Fray
+  type: basic
+  path: barbarian
+  sourcebook: Grimwild
+  description: |
+    When you're the first into an intense situation, **_5s count as 6s_**, **_but 4s count as 1s_** on your first roll. You also **setup** the first person following you regardless of your roll outcome.
