@@ -25,6 +25,7 @@
   "dependencies": {
     "docx": "^9.2.0",
     "eslint-config-wesbos": "^4.3.2",
+    "js-yaml": "^4.1.0",
     "marked": "^15.0.7"
   },
   "eslintConfig": {

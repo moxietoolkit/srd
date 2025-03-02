@@ -1,0 +1,6 @@
+- name: Dynamic Entrance
+  type: basic
+  path: bard
+  sourcebook: Grimwild
+  description: |
+    You can always appear in a scene exactly where and when you want, limited only by your physical capabilities. Make a 3d story roll to see if you're engaged as you enter.

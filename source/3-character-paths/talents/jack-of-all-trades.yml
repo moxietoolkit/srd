@@ -1,0 +1,6 @@
+- name: Jack of all Trades
+  type: basic
+  path: bard
+  sourcebook: Grimwild
+  description: |
+    Increase one of your stats that's a 1 to a 2. You also take +1d on montage rolls.

@@ -1,0 +1,10 @@
+- name: Wordplay
+  type: basic
+  path: bard
+  sourcebook: Grimwild
+  description: |
+    On a perfect defense roll when the situation allows for verbal quips, you make them: _embarrass themself_—_let a secret slip_—_focus on or lose track of you_. Once per session, you can **_goad_** the GM into spending suspense on conversation.
+  feature:
+    - name: Goad
+      type: checkbox
+      refresh: session

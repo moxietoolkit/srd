@@ -1,0 +1,12 @@
+- name: Influence
+  type: basic
+  path: bard
+  sourcebook: Grimwild
+  description: |
+    Twice per session, you can **_invoke an ally's bond with you_** to increase their die roll result by 1. You don't have to be in the same scene—they might recall a memory.
+  feature:
+    - name: Influence
+      type: track
+      min: 2
+      max: 2
+      refresh: session

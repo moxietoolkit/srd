@@ -1,0 +1,10 @@
+- name: Bardic Lore
+  type: basic
+  path: bard
+  sourcebook: Grimwild
+  description: |
+    You gain any 3 wises and 1 extra story per session. You take +1d on any story rolls pertaining to what you know or story details you add. [Growth: 3 levels/+1 wise, +1 story].
+  feature:
+    - name: Story
+      type: checkbox
+      refresh: session

@@ -1,0 +1,59 @@
+- name: Bardsong
+  type: core
+  path: bard
+  sourcebook: Grimwild
+  summary: |
+    You can sing **3 bardsongs** (_session_). Choose a **Style** + **Tune of Impact** and roll Presence. Sing one to pull off a **_potent feat of_** **_emotional influence_** or **_interrupt_** any impact move. You can also sing **3 melodies** (_session_) without a roll or composition to: _clear a mark_—_heal rattled_—_assist without risk_. [Growth: 3 levels/+1 bardsong, +1 melody].
+  description: |
+    Each session, you can sing **3 bardsongs**, rolling Presence. Sing one to pull off a **_potent feat of emotional influence_**, like _eliciting a vex response in an NPC_, _buffing a group of allies_, or _inflicting hindrances on enemies_. You can also sing one to **_interrupt_** an impact move. A bardsong's effect flows from its composition. Choose a **_style_**, **_tune_**, and **_impact__** (_below_) that matches the effect.
+
+    Each session, you can also sing **3 melodies**, spur of the moment tunes without specific composition. Spend them to: _clear a mark_—_heal rattled_—_assist without risk_. These don't require a roll. You cannot affect yourself.
+  growth: Every 3 levels, gain +1 bardsong and +1 melody per session.
+  supplemental:
+    - name: Song Composition
+      description: |
+        **Style**
+        How you feel when you're singing the song.
+
+        **Tune**
+        A familiar form that anyone can recognize.
+
+        **Impact**
+        How you want the song to make them feel.
+
+        | Style     | + | Tune     | of | Impact    |
+        | --------- | - | -------- | -- | --------- |
+        | chaotic   |   | anthem   |    | affection |
+        | dire      |   | aria     |    | awe       |
+        | fiery     |   | ballad   |    | calm      |
+        | gentle    |   | chant    |    | despair   |
+        | haunting  |   | ditty    |    | fear      |
+        | playful   |   | hymn     |    | fury      |
+        | nostalgic |   | ode      |    | hope      |
+        | rousing   |   | requiem  |    | joy       |
+        | vicious   |   | rhapsody |    | mockery   |
+        | whimsical |   | serenade |    | wonder    |
+
+        Below are some example compositions and how potent feats of emotional influence can be brought into play:
+
+        - **_Haunting Requiem of Fear_**: The villagers abandon their homes, terrified of shadows that aren't there.
+        - **_Playful Ballad of Joy_**: A tense negotiation dissolves into laughter, everyone suddenly sharing joyful stories.
+        - **_Whimsical_** **_Serenade of Wonder_**: The towering golem halts, transfixed by the sudden beauty of a flower.
+        - **_Dire Chant of Despair_**: The dragon, mid-flight, veers away in terror, retreating to its lair in panic.
+        - **_Fiery Anthem of Fury_**: A normally docile treant uproots itself, thrashing wildly, lashing out at all nearby.
+        - **_Nostalgic Ode of Hope_**: War-weary soldiers rally, tears flowing, as they march against impossible odds.
+        - **_Chaotic Hymn of Mockery_**: The proud king stumbles, embarrassed, as the crowd laughs uncontrollably.
+        - **_Rousing Rhapsody of Affection_**: The rampaging dire wolf stops and nuzzles someone nearby, tail wagging.
+        - **_Gentle Anthem of Calm_**: The hydra lowers its heads, each one slowly settling into peaceful slumber.
+        - **_Vicious Ditty of Fury_**: A tavern erupts in wanton destruction, patrons consumed by primal rage.
+  feature:
+    - name: Bardsong
+      type: track
+      min: 3
+      max: 5
+      refresh: session
+    - name: Melodies
+      type: track
+      min: 3
+      max: 5
+      refresh: session
