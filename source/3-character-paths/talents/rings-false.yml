@@ -1,0 +1,6 @@
+- name: Rings False
+  type: basic
+  path: cleric
+  sourcebook: Grimwild
+  description: |
+    You always know when someone is lying, though not necessarily the truth. You take +1d on a follow-up if you reveal you know they're lying.

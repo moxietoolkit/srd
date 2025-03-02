@@ -1,0 +1,10 @@
+- name: Blessed
+  type: basic
+  path: cleric
+  sourcebook: Grimwild
+  description: |
+    Once per session, you can re-roll a roll you just made as your god attempts to intervene. The re-roll is made without any thorns on it. On a perfect, **take spark**.
+  feature:
+    - name: Used
+      type: checkbox
+      refresh: session

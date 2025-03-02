@@ -1,0 +1,6 @@
+- name: Devout
+  type: basic
+  path: cleric
+  sourcebook: Grimwild
+  description: |
+    Intelligent creatures recognize you as a person of deep honesty and only your most hated enemies would treat you with a lack of respect or doubt your word. This aura is upheld by your unwavering commitment—you must **push yourself** to act in bad faith (_no free activation_).

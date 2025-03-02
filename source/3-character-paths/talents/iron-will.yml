@@ -1,0 +1,11 @@
+- name: Iron Will
+  type: basic
+  path: cleric
+  sourcebook: Grimwild
+  description: |
+    Each session, you have a **_3d Iron Will_** pool. When you get rattled or take vex, roll the pool. If dice remain, ignore the damage. If possible, you can also lash out at the cause or a bystander and _instill dread in their heart_—_sow doubt in their mind_.
+  feature:
+    - name: Iron Will
+      type: dicepool
+      dice: 3
+      refresh: session
