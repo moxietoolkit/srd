@@ -7,6 +7,5 @@
   feature:
     - name: Warsongs
       type: track
-      refresh: session
       min: 2
       max: 2

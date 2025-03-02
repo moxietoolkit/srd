@@ -8,4 +8,3 @@
     - name: Iron Will
       type: dicepool
       dice: 3
-      refresh: session

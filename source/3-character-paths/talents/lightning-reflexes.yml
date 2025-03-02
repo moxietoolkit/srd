@@ -1,0 +1,6 @@
+- name: Lightning Reflexes
+  type: basic
+  path: monk
+  sourcebook: Grimwild
+  description: |
+    You can always act first, unless completely surprised. You also ignore difficulty thorns on Agility defense rolls.

@@ -7,6 +7,5 @@
   feature:
     - name: Wounds
       type: track
-      refresh: session
       min: 5
       max: 5

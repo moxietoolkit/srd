@@ -1,0 +1,6 @@
+- name: There Is No Try
+  type: basic
+  path: monk
+  sourcebook: Grimwild
+  description: |
+    When putting your life or something you hold equally dear on the line, **_5s count as 6s_**, **_but 4s count as 1s_**. This generally occurs with high risk or after being bloodied in battle.

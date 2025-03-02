@@ -1,0 +1,6 @@
+- name: Relentless
+  type: basic
+  path: ranger
+  sourcebook: Grimwild
+  description: |
+    You can pull off **_potent feats of traversal_** and can always move at full speed, unhindered by what's in your way.

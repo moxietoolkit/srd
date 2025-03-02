@@ -1,0 +1,10 @@
+- name: Poisoner
+  type: basic
+  path: rogue
+  sourcebook: Grimwild
+  description: |
+    Each session, you have a **_4d Poisons_** resource pool. You have access to the following poisons: _hallucinations_—_knockout_—_memory loss_—_nausea_—_paralytic_—_truth serum_. They each take a bit of time to work and are most effective if ingested.
+  feature:
+    - name: Poisons
+      type: dicepool
+      dice: 4

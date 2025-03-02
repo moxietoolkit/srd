@@ -1,0 +1,6 @@
+- name: Flow State
+  type: basic
+  path: monk
+  sourcebook: Grimwild
+  description: |
+    You can keep taking action to keep the spotlight, even if the GM wants to spend suspense.

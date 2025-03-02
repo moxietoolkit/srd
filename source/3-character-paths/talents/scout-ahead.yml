@@ -1,0 +1,9 @@
+- name: Scout Ahead
+  type: basic
+  path: ranger
+  sourcebook: Grimwild
+  description: |
+    You gain 1 story per session and can spend story to flashback to scouting ahead and: _sabotage something_—_set a trap_—_survey the area_ (_ask 2 questions_)—_take out a danger_—_set up an_ **_interrupt_**. Make a montage roll, taking +1d for prowess. The GM always takes suspense in place of an impact move.
+  feature:
+    - name: Story
+      type: checkbox

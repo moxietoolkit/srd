@@ -1,0 +1,6 @@
+- name: Keen Senses
+  type: basic
+  path: ranger
+  sourcebook: Grimwild
+  description: |
+    Your senses are twice as sharp as normal. You can pull off **_potent feats of tracking_** and can always get a **hint** or **reveal** on vigilance against living creatures.

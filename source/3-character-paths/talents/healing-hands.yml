@@ -1,0 +1,6 @@
+- name: Healing Hands
+  type: basic
+  path: monk
+  sourcebook: Grimwild
+  description: |
+    You can heal the bloodied pool of an ally. When you do, roll Presence as a defense roll against getting dropped—you take their pain onto yourself and must fend it off.

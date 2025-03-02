@@ -1,0 +1,6 @@
+- name: Swift Recovery
+  type: basic
+  path: fighter
+  sourcebook: Grimwild
+  description: |
+    On a perfect roll with an unmarked stat, clear a mark on another stat.

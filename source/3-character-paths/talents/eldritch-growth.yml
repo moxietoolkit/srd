@@ -1,0 +1,6 @@
+- name: Eldritch Growth
+  type: basic
+  path: sorcerer
+  sourcebook: Grimwild
+  description: |
+    The maelstrom of magic has twisted your body. You gain a permanent physical feature. In addition to its obvious benefits, it now serves as a touchstone.

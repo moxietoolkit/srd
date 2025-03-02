@@ -7,13 +7,9 @@
   feature:
     - name: Herb 1 (minor)
       type: checkbox
-      refresh: session
     - name: Herb 1 (major)
       type: checkbox
-      refresh: session
     - name: Herb 2 (minor)
       type: checkbox
-      refresh: session
     - name: Herb 2 (major)
       type: checkbox
-      refresh: session

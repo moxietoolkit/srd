@@ -1,0 +1,6 @@
+- name: Maelstrom
+  type: basic
+  path: sorcerer
+  sourcebook: Grimwild
+  description: |
+    You open yourself fully to the maelstrom of raw magic. When you cast a **_potent spell_**, 5s count as 6s, but 4s count as 1s. These 4s also count as 1s towards wild surge.

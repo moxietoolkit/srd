@@ -1,0 +1,14 @@
+- name: Spelleater
+  type: basic
+  path: sorcerer
+  sourcebook: Grimwild
+  description: |
+    You have a **_3d Spelleater pool_** (_per session_). When you suffer from magic, roll the pool. If dice remain, ignore the effect and bank essence (max 2). Spend it to increase a spellcasting die by 1, but it triggers wild surge.
+  feature:
+    - name: Spelleater
+      type: dicepool
+      dice: 3
+    - name: Essence
+      type: track
+      min: 0
+      max: 2

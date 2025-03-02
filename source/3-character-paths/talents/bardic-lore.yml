@@ -7,4 +7,3 @@
   feature:
     - name: Story
       type: checkbox
-      refresh: session

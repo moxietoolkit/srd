@@ -1,0 +1,6 @@
+- name: Eldritch Affinity
+  type: basic
+  path: rogue
+  sourcebook: Grimwild
+  description: |
+    You have spellcasting, as the Sorcery talent. You roll Presence to cast and choose 3 from magic paths and techniques. You can't cast potent spells, nor do you risk a wild surge.

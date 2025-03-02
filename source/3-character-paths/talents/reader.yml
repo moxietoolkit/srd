@@ -1,0 +1,9 @@
+- name: Reader
+  type: basic
+  path: psion
+  sourcebook: Grimwild
+  description: |
+    You gain 1 story per session and can spend story when you first meet someone to know their foremost surface thought—they are like an open book to you. If you follow-up on it, it counts as a **setup**.
+  feature:
+    - name: Story
+      type: checkbox

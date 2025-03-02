@@ -7,4 +7,3 @@
   feature:
     - name: Push
       type: checkbox
-      refresh: session

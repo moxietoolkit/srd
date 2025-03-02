@@ -1,0 +1,9 @@
+- name: Mind Seed
+  type: basic
+  path: psion
+  sourcebook: Grimwild
+  description: |
+    When you plant thoughts or alter memories in someone's head, you can always choose to have them take effect exactly when you want them to. You can decide this at any time later. Once per session, you can use this for an **_interrupt_**.
+  feature:
+    - name: Interrupt
+      type: checkbox

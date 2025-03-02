@@ -7,4 +7,3 @@
   feature:
     - name: Used
       type: checkbox
-      refresh: session

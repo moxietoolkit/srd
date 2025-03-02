@@ -7,4 +7,3 @@
   feature:
     - name: Goad
       type: checkbox
-      refresh: session

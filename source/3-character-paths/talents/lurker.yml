@@ -1,0 +1,9 @@
+- name: Lurker
+  type: basic
+  path: rogue
+  sourcebook: Grimwild
+  description: |
+    On a perfect sneaking past or secretly observing sentient creatures, they: _let a secret slip_—_give you a golden opportunity_. If caught sneaking, you can **push yourself** to stay completely still and avoid detection, but must leave the area immediately after.
+  feature:
+    - name: Push
+      type: checkbox

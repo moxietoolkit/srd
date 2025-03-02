@@ -1,0 +1,9 @@
+- name: Primordial Forces
+  type: basic
+  path: monk
+  sourcebook: Grimwild
+  description: |
+    Choose an element: _Air_—_Earth_—_Fire_—_Water_. You can cast cantrips with it, useful as _set dressing_ and _magic utility_. On a critical, charge it (_mark its box_). Spend it to pull off a **_potent feat of force or movement_** empowered by the element.
+  feature:
+    - name: Selected element
+      type: checkbox

@@ -7,7 +7,5 @@
   feature:
     - name: Push
       type: checkbox
-      refresh: session
     - name: Ritual
       type: checkbox
-      refresh: session

@@ -1,0 +1,10 @@
+- name: Bulwark
+  type: basic
+  path: fighter
+  sourcebook: Grimwild
+  description: |
+    Each session, you have a **_3d Bulwark pool_** from armor or other defenses. When you get bloodied or dropped from physical damage, roll the pool. If dice remain, ignore the damage.
+  feature:
+    - name: Bulwark
+      type: dicepool
+      dice: 3

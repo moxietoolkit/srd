@@ -1,0 +1,9 @@
+- name: Opportunist
+  type: basic
+  path: rogue
+  sourcebook: Grimwild
+  description: |
+    When someone nearby rolls defense, you take +1d on an immediate follow-up. On a critical by a nearby ally, you can **push yourself** to add a critical bonus.
+  feature:
+    - name: Push
+      type: checkbox

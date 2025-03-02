@@ -1,0 +1,9 @@
+- name: Got Your Back
+  type: basic
+  path: fighter
+  sourcebook: Grimwild
+  description: |
+    You can **push yourself** to assist an ally after they roll a grim. The ally can also roll 1d. On a perfect, you both **take spark**.
+  feature:
+    - name: Push
+      type: checkbox

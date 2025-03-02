@@ -1,0 +1,6 @@
+- name: Mind Thief
+  type: basic
+  path: psion
+  sourcebook: Grimwild
+  description: |
+    On a critical on a bastion roll, refund the power points spent and gain 3 power points. This causes mental **_collateral damage_** around you: _confusion_—_hallucinations_— _headaches_— _panic_. One time only, you can make this a ritual-level effect, affecting all within miles.

@@ -1,0 +1,6 @@
+- name: Tumultuous Mind
+  type: basic
+  path: psion
+  sourcebook: Grimwild
+  description: |
+    You can spend 2 power points to gain potency on any Wits or Presence defense roll. Regardless of the roll, if the attacker is sentient, you can **_interrupt_** their next impact move.

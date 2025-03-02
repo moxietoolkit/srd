@@ -1,0 +1,6 @@
+- name: Trap Sense
+  type: basic
+  path: rogue
+  sourcebook: Grimwild
+  description: |
+    You always get a **hint** or **reveal** on vigilance with traps. If avoided or disabled, **take spark**.

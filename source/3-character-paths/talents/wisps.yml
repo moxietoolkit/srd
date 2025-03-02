@@ -1,0 +1,11 @@
+- name: Wisps
+  type: basic
+  path: sorcerer
+  sourcebook: Grimwild
+  description: |
+    Two small spheres of your magic path float around you. Give them 2 traits: _annoying_—_capricious_—_malevolent_—_mesmerizing_—_whimsical_. They serve as touchstones. You can sacrifice one to: _assist without risk_—_distract someone_—_suffer vex in your stead_. Make story rolls to determine effects if sacrificed. They return each session.
+  feature:
+    - name: Wisps
+      type: track
+      min: 0
+      max: 2
