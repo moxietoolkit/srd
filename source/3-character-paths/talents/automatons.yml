@@ -1,0 +1,6 @@
+- name: Automatons
+  type: basic
+  path: artificer
+  sourcebook: Grimwild
+  description: |
+    You have three small helpers you created. Each session, each has a **_2d power pool_** you roll to perform tasks. When assisting, they roll 1d of their pool. [Read full book description.]

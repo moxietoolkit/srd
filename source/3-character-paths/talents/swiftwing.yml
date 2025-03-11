@@ -1,0 +1,10 @@
+- name: Swiftwing
+  type: basic
+  path: artificer
+  sourcebook: Grimwild
+  description: |
+    You can glide (_not fly_). You gain a **_3d power pool_** while aloft, or **_4d_** if you have extreme height or speed. You must roll the pool as bonus dice with any physical roll made while aloft, including defenses. At 0d, you coast back to the ground.
+  feature:
+    - name: Wing
+      type: dicepool
+      dice: 6
