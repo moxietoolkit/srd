@@ -1,0 +1,6 @@
+- name: Mechanical Mount
+  type: basic
+  path: artificer
+  sourcebook: Grimwild
+  description: |
+    You have a small mechanical vehicle. It has three features: _all_-_terrain_—_armored_—_burrowing_—_grappling hook_—_submergible_—_turbo boost_. You can activate each perk once per session to pull off a **_potent feat of piloting_**. It also has one drawback: _conspicuous_—_horrifying_—_slow_—_unreliable_.

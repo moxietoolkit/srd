@@ -1,0 +1,6 @@
+- name: Kindred Spirits
+  type: basic
+  path: druid
+  sourcebook: Grimwild
+  description: |
+    You can speak with animals and spirits of the wild. When you meet, **_they know of you_**. Roll their bond with you or spend story to establish it. When you call, those nearby will answer.

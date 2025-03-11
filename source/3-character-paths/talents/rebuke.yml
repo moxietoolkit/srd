@@ -1,0 +1,6 @@
+- name: Rebuke
+  type: basic
+  path: paladin
+  sourcebook: Grimwild
+  description: |
+    When the GM spends suspense to prompt an impact move, you take +1d on any follow-up action against the source. On a critical, **take spark**.

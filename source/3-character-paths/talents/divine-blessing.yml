@@ -1,0 +1,10 @@
+- name: Divine Blessing
+  type: basic
+  path: paladin
+  sourcebook: Grimwild
+  description: |
+    You have spellcasting as the Channel Divinity talent. Detail your god and choose 1 minor domain, a **_4d power pool_** (_per session_). You can drop 1 and roll the pool to cast a potent spell.
+  feature:
+    - name: Power pool
+      type: dicepool
+      dice: 4

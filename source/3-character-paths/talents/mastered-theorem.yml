@@ -1,0 +1,9 @@
+- name: Mastered Theorem
+  type: basic
+  path: wizard
+  sourcebook: Grimwild
+  description: |
+    Choose one of your spell theorems. You take +1d when casting it and gain 1 extra **_potent spell_** casting of it per session. Your name becomes linked to it and it begins to spread in popularity throughout wizardry—track it with campaign pools.
+  feature:
+    - name: Potent
+      type: checkbox

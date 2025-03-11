@@ -1,0 +1,6 @@
+- name: Colleagues
+  type: basic
+  path: wizard
+  sourcebook: Grimwild
+  description: |
+    In every city, some towns, and the occasional dungeon, you can find a powerful, eccentric wizardly colleague who owes you a favor—or maybe you owe them one. If you go out of your way to meet and catch up, **take spark**.

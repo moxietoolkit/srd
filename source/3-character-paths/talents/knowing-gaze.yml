@@ -1,0 +1,9 @@
+- name: Knowing Gaze
+  type: basic
+  path: warlock
+  sourcebook: Grimwild
+  description: |
+    When given time, you can learn: _their greatest desire_—_what they_'_re hiding_—_what they want to protect_—_who they serve_. This gaze is **_highly disconcerting_** and only works on someone once. You can **push yourself** to do this on the spot.
+  feature:
+    - name: Push
+      type: checkbox

@@ -1,0 +1,11 @@
+- name: Sermons
+  type: basic
+  path: cleric
+  sourcebook: Grimwild
+  description: |
+    When given time, you can pull off **_potent feats of persuasion in the name of your beliefs_**. You can also **push yourself** to do it on the spot. One time only, you can make this a ritual-level effect.
+  feature:
+    - name: Push
+      type: checkbox
+    - name: Ritual
+      type: checkbox

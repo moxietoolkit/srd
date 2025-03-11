@@ -1,0 +1,6 @@
+- name: Animal Companion
+  type: basic
+  path: ranger
+  sourcebook: Grimwild
+  description: |
+    You're accompanied by a fiercely loyal animal. Each PC adds a reciprocal bond with it. Choose **_3 tricks_** and **_2 flaws_**. You roll 3d for its tricks and 1d otherwise. It has only two damage boxes, marked and hurt (for harm). It can always exit a scene when hurt.

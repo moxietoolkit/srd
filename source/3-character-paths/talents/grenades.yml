@@ -1,0 +1,10 @@
+- name: Grenades
+  type: basic
+  path: artificer
+  sourcebook: Grimwild
+  description: |
+    Each session, you have a **_4d Grenades_** resource pool. You have access to the following bombs: _choking_—_flashbang_—_glue_—_smoke_—_stink_. Bombs can affect multiple targets or an area even without potency. You can drop 1 and roll the pool to have a **_potent grenade_**.
+  feature:
+    - name: Grenades
+      type: dicepool
+      dice: 4

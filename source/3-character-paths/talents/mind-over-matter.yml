@@ -1,0 +1,6 @@
+- name: Mind Over Matter
+  type: basic
+  path: monk
+  sourcebook: Grimwild
+  description: |
+    When you take a physical mark, you can instead choose to take a mental mark. When you clear any mark by rolling it, **take spark**.

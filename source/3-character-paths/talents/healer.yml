@@ -1,0 +1,6 @@
+- name: Healer
+  type: basic
+  path: cleric
+  sourcebook: Grimwild
+  description: |
+    When you heal someone, through treatment or magic, they drop 2d before rolling the pool. If it depletes from your care, **take spark**.

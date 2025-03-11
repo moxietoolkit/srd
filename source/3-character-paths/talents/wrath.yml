@@ -1,0 +1,6 @@
+- name: Wrath
+  type: basic
+  path: sorcerer
+  sourcebook: Grimwild
+  description: |
+    When you or a nearby ally gets bloodied, rattled, or dropped, you take +1d and **_potency_** on your next spell if you immediately lash out.

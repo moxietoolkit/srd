@@ -1,0 +1,6 @@
+- name: Verdant Whispers
+  type: basic
+  path: druid
+  sourcebook: Grimwild
+  description: |
+    You can commune with plants. Roll Wits to decipher their messages, as they are truly hard to understand. You always get a **hint** or **reveal** on vigilance in places teeming with plant life.

@@ -1,0 +1,11 @@
+- name: Warsongs
+  type: basic
+  path: beserker
+  sourcebook: Grimwild
+  description: |
+    Each session, you can sing **2 bardsongs**. Write down the composition of the only 3 songs you know.
+  feature:
+    - name: Warsongs
+      type: track
+      min: 2
+      max: 2

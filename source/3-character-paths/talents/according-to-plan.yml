@@ -1,0 +1,9 @@
+- name: According to Plan
+  type: basic
+  path: rogue
+  sourcebook: Grimwild
+  description: |
+    You gain 1 story per session and can spend story to flashback to utilizing subterfuge in a way that's immediately relevant, like swiping some keys, paying off a guard, or preparing an escape route. Make a montage roll, taking +1d for Expertise. The GM always takes suspense in place of an impact move.
+  feature:
+    - name: Story
+      type: checkbox

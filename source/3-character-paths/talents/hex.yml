@@ -1,0 +1,6 @@
+- name: Hex
+  type: basic
+  path: warlock
+  sourcebook: Grimwild
+  description: |
+    You can roll Presence to hex someone with: _dread_—_clumsiness_—_confusion_—_forgetfulness_—_misfortune_—_sleepiness_. Decide when it takes effect: _now_—_soon_—_much later_—_specific trigger_. This is a cosmic effect. It's magic, but not fully under your control.

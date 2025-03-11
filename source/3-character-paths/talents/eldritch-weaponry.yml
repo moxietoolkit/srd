@@ -1,0 +1,6 @@
+- name: Eldritch Weaponry
+  type: basic
+  path: warlock
+  sourcebook: Grimwild
+  description: |
+    On a perfect hit when using cantrip utility as a weapon, you can **push yourself** to also inflict a spell-level effect with your patron's trappings as the touchstone. It can't deal more damage.

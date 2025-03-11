@@ -1,0 +1,9 @@
+- name: Aegis
+  type: basic
+  path: paladin
+  sourcebook: Grimwild
+  description: |
+    You take +1d when defending with a shield and can use it to make a defense roll in a nearby ally's place. You can **push yourself** to defend multiple allies from a single attack, like blocking dragonfire. On a perfect, everyone you protected **takes spark**.
+  feature:
+    - name: Push
+      type: checkbox

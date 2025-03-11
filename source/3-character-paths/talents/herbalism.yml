@@ -1,0 +1,15 @@
+- name: Herbalism
+  type: basic
+  path: druid
+  sourcebook: Grimwild
+  description: |
+    Before each session, use the Herbalism Crucible to make two herb names. You have **_1 minor and 1 major potion of each_**. The name serves as its touchstone. They lose effect after this session. One time only, you can also have 1 mythic potion.
+  feature:
+    - name: Herb 1 (minor)
+      type: checkbox
+    - name: Herb 1 (major)
+      type: checkbox
+    - name: Herb 2 (minor)
+      type: checkbox
+    - name: Herb 2 (major)
+      type: checkbox

@@ -1,0 +1,13 @@
+- name: Arcane Training
+  type: basic
+  path: fighter
+  sourcebook: Grimwild
+  description: |
+    You have spellcasting as the Spellcraft talent. You roll Wits and can cast 3 spells and 1 potent spell per session. You know 3 spell theorems, created with the Spell Crucible, and can learn new spells from scrolls.
+  feature:
+    - name: Spells
+      type: track
+      min: 3
+      max: 3
+    - name: Potent
+      type: checkbox

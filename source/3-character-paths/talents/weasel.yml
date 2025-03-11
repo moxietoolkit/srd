@@ -1,0 +1,9 @@
+- name: Weasel
+  type: basic
+  path: rogue
+  sourcebook: Grimwild
+  description: |
+    If caught in a lie or red-handed, you can **push yourself** to weasel your way out—for now. You get an exit, but they definitely realize what happened soon after.
+  feature:
+    - name: Push
+      type: checkbox

@@ -1,0 +1,9 @@
+- name: Seasoned Hunter
+  type: basic
+  path: ranger
+  sourcebook: Grimwild
+  description: |
+    You always know where a monster's lair will be. Once per session, you can tell all to **_Look Out_**! and declare how a monster spends 1 suspense on a move to attack your party. Everyone takes +1d on the defense roll and follow-up action rolls.
+  feature:
+    - name: Look out!
+      type: checkbox

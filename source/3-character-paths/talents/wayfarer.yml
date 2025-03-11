@@ -1,0 +1,9 @@
+- name: Wayfarer
+  type: basic
+  path: warlock
+  sourcebook: Grimwild
+  description: |
+    You can **push yourself** to teleport. The further or less familiar, the less precise. Max range is two days' ride away. Clear eyesight and no obstruction requires no roll, otherwise make a story roll. You can bring others, taking +1t per person.
+  feature:
+    - name: Push
+      type: checkbox

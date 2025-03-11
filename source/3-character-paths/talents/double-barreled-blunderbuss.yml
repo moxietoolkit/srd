@@ -1,0 +1,19 @@
+- name: Double-Barreled Blunderbuss
+  type: basic
+  path: artificer
+  sourcebook: Grimwild
+  description: |
+    You can fire each type of specialized ammo once per session. When you shoot, choose the ammo: _blast core_—_drill shot_—_inferno shot_—_scatter shot_—_shrapnel burst_—_tangler shot_. Each shot has a secondary or **_collateral effect_** related to the type. You can fire two ammo types at the same time for a **_potent shot_**.
+  feature:
+    - name: Blast core
+      type: checkbox
+    - name: Drill shot
+      type: checkbox
+    - name: Inferno shot
+      type: checkbox
+    - name: Scatter shot
+      type: checkbox
+    - name: Shrapnel burst
+      type: checkbox
+    - name: Tangler shot
+      type: checkbox

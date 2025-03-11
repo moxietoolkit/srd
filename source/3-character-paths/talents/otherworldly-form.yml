@@ -1,0 +1,6 @@
+- name: Otherworldly Form
+  type: basic
+  path: warlock
+  sourcebook: Grimwild
+  description: |
+    You can turn into a floating, dispersed form, flavored after your patron's trappings. Choose three things you can do in this form: _appear barely visible_—_fly high in the sky_—_interact with objects_—_move swiftly_—_slip through small gaps_—_speak_.

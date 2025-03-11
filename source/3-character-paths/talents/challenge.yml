@@ -1,0 +1,9 @@
+- name: Challenge
+  type: basic
+  path: paladin
+  sourcebook: Grimwild
+  description: |
+    **Push yourself** to challenge a foe, taking +1d on all rolls against them, but give them 1 suspense. If they do anything besides confront you, you can **_interrupt_** it—only on a perfect, the challenge continues. If an ally engages your foe, the challenge ends.
+  feature:
+    - name: Push
+      type: checkbox

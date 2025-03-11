@@ -1,0 +1,9 @@
+- name: Measured Tones
+  type: basic
+  path: fighter
+  sourcebook: Grimwild
+  description: |
+    When you speak in measured tones, people always stop and listen—declare **_low risk_** if desired. Unless completely surprised, you can **push yourself** to **_interrupt_** an impact move initiating aggression. If you change their mind, **take spark**.
+  feature:
+    - name: Push
+      type: checkbox

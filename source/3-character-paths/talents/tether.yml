@@ -1,0 +1,11 @@
+- name: Tether
+  type: basic
+  path: monk
+  sourcebook: Grimwild
+  description: |
+    Once per session, touch someone to link spirits. You can sense their feelings and know where they are. You can **push yourself** to: _assist them_—_speak into their mind_—_take mental damage for them_—_teleport to them_. If they get dropped, so do you. You must touch again or rest for the link to end. When it does, change your bond.
+  feature:
+    - name: Tether
+      type: checkbox
+    - name: Push
+      type: checkbox

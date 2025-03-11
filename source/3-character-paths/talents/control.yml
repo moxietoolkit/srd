@@ -1,0 +1,9 @@
+- name: Control
+  type: basic
+  path: fighter
+  sourcebook: Grimwild
+  description: |
+    You can **push yourself** to declare a zone that enemies cannot cross without dealing with you. If they attempt to move past you, you can **_interrupt_** them. On a perfect, **take spark**.
+  feature:
+    - name: Push
+      type: checkbox

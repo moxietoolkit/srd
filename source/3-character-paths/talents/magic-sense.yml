@@ -1,0 +1,6 @@
+- name: Magic Sense
+  type: basic
+  path: sorcerer
+  sourcebook: Grimwild
+  description: |
+    You always get a **hint** or **reveal** on vigilance involving magic. When you avoid or disrupt it, **take spark**.

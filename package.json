@@ -1,0 +1,39 @@
+{
+  "name": "moxietoolkit",
+  "version": "1.0.0",
+  "description": "System Reference Document for the Moxie RPG",
+  "homepage": "https://github.com/moxietoolkit/srd#readme",
+  "bugs": {
+    "url": "https://github.com/moxietoolkit/srd/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moxietoolkit/srd.git"
+  },
+  "license": "CC-BY-4.0",
+  "author": "Randy Oest, PedroGaya",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "generate-full-srd": "node scripts/build-srd.js",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "lint:md": "markdownlint \"source/**/*.md\"",
+    "lint:md:fix": "markdownlint --fix \"source/**/*.md\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "docx": "^9.2.0",
+    "eslint-config-wesbos": "^4.3.2",
+    "js-yaml": "^4.1.0",
+    "marked": "^15.0.7"
+  },
+  "eslintConfig": {
+    "extends": [
+      "wesbos"
+    ]
+  },
+  "devDependencies": {
+    "markdownlint-cli": "^0.44.0"
+  }
+}

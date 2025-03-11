@@ -1,0 +1,6 @@
+- name: Wilder
+  type: basic
+  path: psion
+  sourcebook: Grimwild
+  description: |
+    Your powers are inherently chaotic, either by nature or nurture, and you struggle to control them. Take +1d, but also +1t, on all psionic bastion rolls. You can never ignore thorns from any source, including your core talent. On a critical, regain the power points you just spent.

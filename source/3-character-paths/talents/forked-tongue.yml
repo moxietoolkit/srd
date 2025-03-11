@@ -1,0 +1,9 @@
+- name: Forked Tongue
+  type: basic
+  path: bard
+  sourcebook: Grimwild
+  description: |
+    When given time, you can tell **_potent lies_**. You can **push yourself** to do it on the spot.
+  feature:
+    - name: Push
+      type: checkbox

@@ -1,0 +1,6 @@
+- name: Ritualist
+  type: basic
+  path: warlock
+  sourcebook: Grimwild
+  description: |
+    Take +1d on a ritual's rites and replace any one of its anchors with yourself.

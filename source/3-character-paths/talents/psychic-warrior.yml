@@ -1,0 +1,6 @@
+- name: Psychic Warrior
+  type: basic
+  path: psion
+  sourcebook: Grimwild
+  description: |
+    On a critical with a feat of martial prowess, take a **setup** and spend no power points if you follow-up with a bastion. You can't benefit from using the same bastion twice.

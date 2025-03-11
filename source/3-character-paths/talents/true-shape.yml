@@ -1,0 +1,6 @@
+- name: True Shape
+  type: basic
+  path: druid
+  sourcebook: Grimwild
+  description: |
+    Choose 1 beast form. If it has no wild talents, you can shift into it without rolling, even at 0d. If it does, drop 1d less and you can shift into it even if the roll drops to 0d.

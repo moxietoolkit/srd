@@ -1,0 +1,6 @@
+- name: Visions
+  type: basic
+  path: warlock
+  sourcebook: Grimwild
+  description: |
+    You can roll Presence to ask your patron for forbidden knowledge. Ask the GM a specific question. The answer may be cryptic or twisted to suit your patron's desires, but it will never be an outright lie. On a messy or grim, roll the Patience pool.

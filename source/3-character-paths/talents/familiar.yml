@@ -1,0 +1,9 @@
+- name: Familiar
+  type: basic
+  path: wizard
+  sourcebook: Grimwild
+  description: |
+    You manifest a small magical creature. You can communicate telepathically and send it on simple tasks, making a story roll to see how it goes. By entering a trance, you can use its senses. You can also **push yourself** to cast a spell through it. If your familiar takes damage, it vanishes and reappears at the start of the next session.
+  feature:
+    - name: Push
+      type: checkbox

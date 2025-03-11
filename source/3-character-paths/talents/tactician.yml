@@ -1,0 +1,9 @@
+- name: Tactician
+  type: basic
+  path: fighter
+  sourcebook: Grimwild
+  description: |
+    During an intense action sequence, you can **push yourself** to tag 3 scene elements right away and 1 later in the sequence. When an ally interacts with a tagged element, you assist without risk on the roll. If no roll is needed, they **take spark**.
+  feature:
+    - name: Push
+      type: checkbox

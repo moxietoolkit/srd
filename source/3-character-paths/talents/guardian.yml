@@ -1,0 +1,6 @@
+- name: Guardian
+  type: basic
+  path: paladin
+  sourcebook: Grimwild
+  description: |
+    Take +1d when you assist on a defense roll. If your dice come up as a 6, you both **take spark**.

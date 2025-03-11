@@ -1,0 +1,6 @@
+- name: Dauntless
+  type: basic
+  path: paladin
+  sourcebook: Grimwild
+  description: |
+    **Take spark** when your roll is cut. Take +1d on story rolls if dropped. On a perfect, ignore it.

@@ -1,0 +1,6 @@
+- name: Friendly Face
+  type: basic
+  path: bard
+  sourcebook: Grimwild
+  description: |
+    In any new town or district of a city you go to, you can always: _know someone useful_—_quickly make a friend_—_be recognized by a fan_. They'll gladly do you a reasonable favor. **Take spark** if you promise to pay them back.

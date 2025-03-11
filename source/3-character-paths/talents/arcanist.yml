@@ -1,0 +1,6 @@
+- name: Arcanist
+  type: basic
+  path: wizard
+  sourcebook: Grimwild
+  description: |
+    Take +1d when rolling an arcana's pool and ignore the first die that would be dropped.You also gain **_3 minor arcana_** and **_1 major arcana_** that you've either created or found.

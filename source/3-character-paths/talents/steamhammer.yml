@@ -1,0 +1,10 @@
+- name: Steamhammer
+  type: basic
+  path: artificer
+  sourcebook: Grimwild
+  description: |
+    Each session, you have a **_6d power pool_**. You can roll the pool to pull off **_potent feats of pulverizing force_**. You can also not expend its steam to use it as a normal warhammer
+  feature:
+    - name: Steam
+      type: dicepool
+      dice: 6
