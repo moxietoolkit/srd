@@ -1,0 +1,10 @@
+- name: Alchemist
+  type: basic
+  path: wizard
+  sourcebook: Grimwild
+  description: |
+    Each session, you have a **_4d Potions_** resource pool. You can have a minor potion and roll the pool, or drop 1 and roll for a major potion. You know recipes for your spell theorems, plus two more. Learn new recipes by sacrificing potions.
+  feature:
+    - name: Potions
+      type: dicepool
+      dice: 4

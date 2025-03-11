@@ -1,0 +1,10 @@
+- name: Anchorshot
+  type: basic
+  path: artificer
+  sourcebook: Grimwild
+  description: |
+    You have **_potency_** to hinder the movement of anything elephant-size or larger. When hit, the target becomes **_4d Tethered_**. It anchors to the ground so you can leave it.
+  feature:
+    - name: Tethered
+      type: dicepool
+      dice: 4

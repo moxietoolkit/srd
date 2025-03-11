@@ -1,0 +1,9 @@
+- name: Prepared Spell
+  type: basic
+  path: wizard
+  sourcebook: Grimwild
+  description: |
+    You gain 1 story per session and can spend story to flashback to casting a spell with specific triggers. If a montage to get access to a place is needed, the GM always takes suspense in place of an impact move. Roll for the spell's effectiveness now.
+  feature:
+    - name: Story
+      type: checkbox

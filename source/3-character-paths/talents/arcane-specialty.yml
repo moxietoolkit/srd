@@ -1,0 +1,6 @@
+- name: Arcane Specialty
+  type: basic
+  path: wizard
+  sourcebook: Grimwild
+  description: |
+    Choose your specialty school. All of your spell theorems now have it plus another school. When casting, choose which school to use. On a critical with your specialty school, **take spark**.
