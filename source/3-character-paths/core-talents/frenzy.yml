@@ -1,0 +1,59 @@
+- name: Frenzy
+  type: core
+  path: beserker
+  sourcebook: Grimwild
+  summary: |
+    Frenzy: Once per session, or when you get bloodied or take vex, you can enter a frenzy for a scene. During the frenzy, you can only take aggressive actions. You also:
+    - Take +1d for each mark you have and ignore all thorns from harm and marks.
+    - **Collateral damage**: _send something flying_—_smash mooks_—_wreck something_.
+    - Always get a final action when dropped. On a critical, ignore getting dropped.
+    You can only exit a frenzy when: _no challenger stands before you_—_get dropped_—_push yourself_. [Growth: 3 levels/1 free activation of frenzy per session]
+  description: |
+    Once per session, or when you get bloodied or take vex, you can enter a **frenzy** for a scene. During the frenzy, you can only take aggressive actions. You also: 
+    - Take +1d for each mark you have and ignore all thorns from harm and marks.
+    - Inflict **_collateral damage_** on each action roll, regardless of the outcome. You must choose one: _send something flying_—_smash mooks_—_throw insults_—_wreck something_.
+    - Always get a final action when dropped. On a critical, ignore getting dropped.
+    You can only exit a frenzy when _no challenger stands before you_, you get dropped, or you **_push yourself_** to calm down.
+  growth: Every 3 levels, gain 1 free activation of this per session.
+  supplemental:
+    - name: Frenzy Source (Optional)
+      description: |
+        Where does your wild power and ability to withstand pain come from? Choose 2 and smash them together to form the source and 1 that you have disdain for.
+        - _Ritualistic preparation_
+        - _Trained tolerance to pain_
+        - _Long consumption of strange substances_
+        - _Drawing power from ancestral spirits_
+        - _Drawing primal power from the wild_
+        - _Channeling memories you'll never forget_
+        - _Visions of horrific or heroic scenes_
+        - _Deep meditative focus_
+        - _Blood pact with a kindred force_
+        - _Countless battles, countless injuries_
+        - _Binding your spirit to a physical totem_
+        - _You really don't know why you're like this_
+    - name: Scars (Optional)
+      description: |
+        Your ability to ignore pain has led you to take far more damage than most warriors. What scars do you bear that show your reckless nature? Choose 3 that you can show off.
+        - _Crookedly broken nose_
+        - _Web of deep cut scars_
+        - _Permanently split knuckles_
+        - _Empty eye socket_
+        - _Smashed teeth_
+        - _Cauliflower ears_
+        - _Wild, ripped hair_
+        - _Muscles knotted like iron_
+        - _Several missing fingers_
+        - _Jagged burn lines_
+        - _Gouged claw marks_
+        - _Runic scarring from magic_
+        - _Torn earlobe or eartips_
+        - _Deep, cauterized wound_
+        - _Cracked jawline_
+        - _Crushed foot_
+        - _Busted in skull_
+        - _Not a scratch on you_
+  feature:
+    - name: Frenzy
+      type: track
+      min: 1
+      max: 3

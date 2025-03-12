@@ -51,9 +51,7 @@
       type: track
       min: 3
       max: 5
-      refresh: session
     - name: Melodies
       type: track
       min: 3
       max: 5
-      refresh: session
