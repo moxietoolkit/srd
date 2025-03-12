@@ -1,4 +1,6 @@
-# Goals Of The SRD
+---
+title: 'Goals Of The SRD'
+---
 
 For starters, what's the point of an SRD? As the name implies, it is reference material. Thus, making it **easy to reference** is an obvious goal.
 
