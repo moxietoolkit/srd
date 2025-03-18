@@ -15,9 +15,9 @@ Hauling treasure isn't a problem unless the GM specifically makes it one. You ca
 
 | Value        | Tangibles                                                        | Intangibles                                                               | Magic                                                            |
 | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| **_Minor_**  | Gift, _noble_<br>Pet, _exotic_<br>Map, _detailed_                | Service, _highly skilled_<br>Mercenaries, _a few_<br>Provide help, _town_ | Arcana, _minor_<br>Casting, _spell_<br>Ritual, _simple_          |
-| **_Major_**  | Gift, _royal_<br>Estate, _spacious_<br>Sailing ship, _swift_     | Service, _very risky_<br>Mercenaries, _a squad_<br>Provide help, _city_   | Arcana, _major_<br>Casting, _potent spell_<br>Ritual, _moderate_ |
-| **_Mythic_** | Gift, _imperial_<br>Keep, _formidable_<br>Sailing ship, _mighty_ | Service, _unique_<br>Mercenaries, _an army_<br>Provide help, _kingdom_    | Arcana, _mythic_<br>Ritual, _complex_<br>Soul, _powerful_        |
+| **_Minor_**  | Gift, _noble_<br/>Pet, _exotic_<br/>Map, _detailed_                | Service, _highly skilled_<br/>Mercenaries, _a few_<br/>Provide help, _town_ | Arcana, _minor_<br/>Casting, _spell_<br/>Ritual, _simple_          |
+| **_Major_**  | Gift, _royal_<br/>Estate, _spacious_<br/>Sailing ship, _swift_     | Service, _very risky_<br/>Mercenaries, _a squad_<br/>Provide help, _city_   | Arcana, _major_<br/>Casting, _potent spell_<br/>Ritual, _moderate_ |
+| **_Mythic_** | Gift, _imperial_<br/>Keep, _formidable_<br/>Sailing ship, _mighty_ | Service, _unique_<br/>Mercenaries, _an army_<br/>Provide help, _kingdom_    | Arcana, _mythic_<br/>Ritual, _complex_<br/>Soul, _powerful_        |
 
 <!-- markdownlint-enable MD033 --->
 
