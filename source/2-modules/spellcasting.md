@@ -70,7 +70,9 @@ Anyone aware that something is magic can try to dispel it. This does not require
 
 ### Healing Magic
 
-Spells can clear marks, heal minor conditions or immediate conditions _(4d bleeding out)_, or calm a vex response. Potent spells can pull off +3t/impossible healing, such as roll a healing pool _(bloodied, rattled)_ or mending broken bones _(but not a severed arm)_. Rituals are needed for things like regrowing limbs, curing blindness, or removing deep trauma.
+Spells can clear marks, heal minor conditions, or calm a vex response. Potent spells can pull off +3t/_impossible_ healing, such as healing
+harm instantly or curing major conditions (_mend
+a broken bone, but not a severed arm_). Rituals are needed for more extreme conditions like regrowing limbs, curing blindness, or removing deep trauma.
 
 ### Resurrection
 
@@ -100,7 +102,7 @@ Enemy magic doesn't follow the same rules as PC magic. It manifests through GM m
 
 **Rituals** can accomplish magical effects far beyond what can be done with even potent spells, equal to the labor of an entire team of people over an extended period, effects that can have significant impact on the world, or push the very limits of implausibility. **Casting a ritual consists of 3 parts**:
 
-- Possess a **source** of magic with relevant touchstones.
+- Possess a **source of magic** with relevant touchstones.
 - **Anchor** the ritual to the physical and metaphysical realms.
 - Complete the ritual's **rites** to finalize its casting.
 

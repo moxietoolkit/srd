@@ -7,7 +7,7 @@
   description: |
     Each session, you can sing **3 bardsongs**, rolling Presence. Sing one to pull off a **_potent feat of emotional influence_**, like _eliciting a vex response in an NPC_, _buffing a group of allies_, or _inflicting hindrances on enemies_. You can also sing one to **_interrupt_** an impact move. A bardsong's effect flows from its composition. Choose a **_style_**, **_tune_**, and **_impact__** (_below_) that matches the effect.
 
-    Each session, you can also sing **3 melodies**, spur of the moment tunes without specific composition. Spend them to: _clear a mark_—_heal rattled_—_assist without risk_. These don't require a roll. You cannot affect yourself.
+    Each session, you can also sing **3 melodies**, spur of the moment tunes without specific composition. Spend them to: _clear a mark_—_calm or intensify a vex response_—_assist without risk_. These don't require a roll. You cannot affect yourself.
   growth: Every 3 levels, gain +1 bardsong and +1 melody per session.
   supplemental:
     - name: Song Composition

@@ -1,6 +1,6 @@
 - name: Overkill
   type: basic
-  path: beserker
+  path: berserker
   sourcebook: Grimwild
   description: |
     On a critical when bringing violence, threats, or destruction to bear, you can: _cause an extra secondary effect_—_roll a task pool twice_.

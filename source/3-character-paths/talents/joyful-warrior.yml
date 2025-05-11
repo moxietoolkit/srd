@@ -1,6 +1,6 @@
 - name: Joyful Warrior
   type: basic
-  path: beserker
+  path: berserker
   sourcebook: Grimwild
   description: |
-    On a critical or when bloodied in battle, you **take spark** and can: _heal an ally_'_s rattled pool_—_bring a dropped_ (_not dead_) _ally back into the scene_.
+    On a critical or when bloodied in battle, you **take spark** and can: _clear one mark from each ally_—_bring a dropped_ (_not dead_) _ally back into the scene_.
