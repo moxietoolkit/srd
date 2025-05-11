@@ -259,7 +259,7 @@ You can fire each type of specialized ammo once per session. When you shoot, cho
 You can always appear in a scene exactly where and when you want, limited only by your physical capabilities. Make a 3d story roll to see if you're engaged as you enter.
 
 - **Type**: basic
-- **Path**: beserker
+- **Path**: bard
 - **Sourcebook**: Grimwild
 
 ---
@@ -313,19 +313,19 @@ Your presence instills fear in others. The GM judges an NPC's response, or you c
 [ ] **Push** (refresh: undefined)
 
 - **Type**: basic
-- **Path**: beserker
+- **Path**: berserker
 - **Sourcebook**: Grimwild
 
 ---
 
 ## Flesh Wounds
 
-When you take physical damage, only a disaster can drop you. You can get bloodied multiple times. Each extra time inflicts +1t on rolls and increases your heal pool by 4d. These extra thorns can never be ignored.
+When you take physical damage, only a disaster can drop you. You can get bloodied multiple times. Each extra time inflicts +1t on rolls. These extra thorns can never be ignored and they also apply thorns to any attempt to heal you.
 
 [ ][ ][ ][ ][ ] **Wounds** (refresh: undefined)
 
 - **Type**: basic
-- **Path**: beserker
+- **Path**: berserker
 - **Sourcebook**: Grimwild
 
 ---
@@ -398,7 +398,7 @@ Take +1d when you assist on a defense roll. If your dice come up as a 6, you bot
 
 ## Healer
 
-When you heal someone, through treatment or magic, they drop 2d before rolling the pool. If it depletes from your care, **take spark**.
+You take +1d when you heal someone, with magic or treatment. On a critical, both of you **take spark**.
 
 - **Type**: basic
 - **Path**: cleric
@@ -408,7 +408,7 @@ When you heal someone, through treatment or magic, they drop 2d before rolling t
 
 ## Healing Hands
 
-You can heal the bloodied pool of an ally. When you do, roll Presence as a defense roll against getting dropped—you take their pain onto yourself and must fend it off.
+You can heal an ally that is bloodied. This automatically works, but you must make a Presence defense roll against being bloodied—you take their pain onto yourself and must fend it off.
 
 - **Type**: basic
 - **Path**: monk
@@ -461,7 +461,7 @@ Twice per session, you can **_invoke an ally's bond with you_** to increase thei
 When you're the first into an intense situation, **_5s count as 6s_**, **_but 4s count as 1s_** on your first roll. You also **setup** the first person following you regardless of your roll outcome.
 
 - **Type**: basic
-- **Path**: beserker
+- **Path**: berserker
 - **Sourcebook**: Grimwild
 
 ---
@@ -490,10 +490,10 @@ Increase one of your stats that's a 1 to a 2. You also take +1d on montage rolls
 
 ## Joyful Warrior
 
-On a critical or when bloodied in battle, you **take spark** and can: _heal an ally_'_s rattled pool_—_bring a dropped_ (_not dead_) _ally back into the scene_.
+On a critical or when bloodied in battle, you **take spark** and can: _clear one mark from each ally_—_bring a dropped_ (_not dead_) _ally back into the scene_.
 
 - **Type**: basic
-- **Path**: beserker
+- **Path**: berserker
 - **Sourcebook**: Grimwild
 
 ---
@@ -613,7 +613,7 @@ When given time, you can pull off **_potent feats of raw strength_**. You can **
 [ ] **Push** (refresh: undefined)
 
 - **Type**: basic
-- **Path**: beserker
+- **Path**: berserker
 - **Sourcebook**: Grimwild
 
 ---
@@ -677,7 +677,7 @@ You can turn into a floating, dispersed form, flavored after your patron's trapp
 On a critical when bringing violence, threats, or destruction to bear, you can: _cause an extra secondary effect_—_roll a task pool twice_.
 
 - **Type**: basic
-- **Path**: beserker
+- **Path**: berserker
 - **Sourcebook**: Grimwild
 
 ---
@@ -770,7 +770,7 @@ When the GM spends suspense to prompt an impact move, you take +1d on any follow
 
 ## Regrowth
 
-When you heal bloodied, drop 1d then roll it. You can also give yourself treatment if you have _time_, no roll required.
+Once per scene, you may awaken a living natural feature - plants, animals, insects, fungi, or the like - within or nearby the scene. It gains awareness and purpose, forming a **_3d power pool_** you can direct, guided by its nature. One time only, you can make this a ritual-level effect.
 
 - **Type**: basic
 - **Path**: druid
@@ -1029,7 +1029,7 @@ Each session, you can sing **2 bardsongs**. Write down the composition of the on
 [ ][ ] **Warsongs** (refresh: undefined)
 
 - **Type**: basic
-- **Path**: beserker
+- **Path**: berserker
 - **Sourcebook**: Grimwild
 
 ---
@@ -1113,3 +1113,4 @@ When you or a nearby ally gets bloodied, rattled, or dropped, you take +1d and *
 - **Sourcebook**: Grimwild
 
 ---
+
