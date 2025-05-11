@@ -21,4 +21,4 @@ When a previous action makes a follow-up more effective, you assist without risk
 
 ## Outside Assistance
 
-When an assist or setup comes from the world, like an NPC or the environment, **_the GM Rolls 1d_** to represent it.
+When an assist or setup comes from the world, like an NPC or the environment, **_the GM rolls 1d_** to represent it.
