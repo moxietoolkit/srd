@@ -42,7 +42,6 @@ Conditions clear when it makes sense, life after a scene, with rest, or when a p
 
 **_You have final say on long-term and permanent conditions_**. When you take one, work with the GM to find a good fit for your PC and the situation.
 
-
 ## Treatment
 
 Harm can be cleared with **_treatment_**, which requires _time_, _tools_,  and _training_. Treatment always carries risk, requiring an action roll. On a messy, they recover but other problems arise (_left with a mark_, _takes longer than expected_). On a grim, you aggravate the situation (_long-term condition_, _death_).

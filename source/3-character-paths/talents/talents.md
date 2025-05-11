@@ -1113,4 +1113,3 @@ When you or a nearby ally gets bloodied, rattled, or dropped, you take +1d and *
 - **Sourcebook**: Grimwild
 
 ---
-
