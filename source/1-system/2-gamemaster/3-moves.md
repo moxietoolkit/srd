@@ -3,9 +3,9 @@ title: 'Moves'
 sourcebook: 'Grimwild'
 ---
 
-A framework for good GMing practices and **_the rules that you, the GM, play by_**. While they can be called out specificallym they typically sit in the background left unsaid, aligning naturally with what you do as GM.
+A framework for good GMing practices and **_the rules that you, the GM, play by_**. While they can be called out specifically, they typically sit in the background left unsaid, aligning naturally with what you do as GM.
 
-- **_Story moves_** set up scenes and pace the game. They hint at problems and give players a chance to react to what's happening. _Make theses moves as you like at any time._
+- **_Story moves_** set up scenes and pace the game. They hint at problems and give players a chance to react to what's happening. _Make these moves as you like at any time._
 - **_Suspense moves_** help the players out in some way or escalate tension. **_Take suspense when used._** _Make these moves with good timing._
 - **_Impact moves_** deal significant consequences, crank up the tension, and make the world feel powerful. _Make these moves when prompted._
 
@@ -27,13 +27,9 @@ What happens when things go wrong — from failed rolls, timers, or impact moves
 
 Damage is a solid baseline: in a fight, injuries leave you bloodied by default. Other consequences, even narrative ones, should sting just as much. There’s no strict formula — _it’s a gut feeling_. Let the fiction guide you, and make sure to give the fiction its teeth.
 
-### Splitting It
+**_You can split consequences, breaking big consequences into smaller ones._** Multiple effects can be just as effective and make more sense in the situation. You might break up bloodied into a few marks, or rattled becoming vex and rolling a pool instead. Splits make the story move in multiple directions.
 
-Breaking big consequences into smaller ones. Multiple effects can be just as effective and make more sense in the situation. You might break up bloodied into a few marks, or rattled becoming vex and rolling a pool instead. Splits make the story move in multiple directions
-
-### Spreading It
-
-Hitting multiple PCs, nearby NPCs, or even a PC who didn't prompt the move. Consequences can be identical, vary in severity, or differ entirely. If a PC other than the one prompting it is hit, they get a defense roll. Spreads make the impact feel broader and pulling more people into a dynamic scene.
+You can also spread consequences, hitting multiple PCs, nearby NPCs, or even a PC who didn't prompt the move. Consequences can be identical, vary in severity, or differ entirely. If a PC other than the one prompting it is hit, they get a defense roll. Spreads make the impact feel broader and pulling more people into a dynamic scene.
 
 ### Thinking Offscreen
 
@@ -43,9 +39,9 @@ Fallout that happens beyond the immediate action. Not all consequences need to o
 
 Building pressure with danger or timer pools. Start or roll a danger or timer pool as another outlet for consequences, often **_offscreen_**. These create looming threats and situations the PCs want to avoid or mitigate. They build pressure and offer a strong alternative to skipping the move and banking suspense.
 
-### Setting Risk
+### Stakes
 
-Framing danger when it's not the default. Most rolls assume meaningful consequences. Declaring high risk before a roll or situation signals severe stakes—death or worse looms. Low risk shifts outcomes into lighter territory, rolling for things you'd normally skip, with softer consequences. It's a tool for tone, moving between intense and light play.
+Framing danger when it's not the default. Most rolls assume meaningful consequences. Declaring **dire stakes** before a roll or situation signals severe stakes - death or worse looms. **Tame stakes** shifts outcomes into lighter territory, rolling for things you'd normally skip, with softer consequences. It's a tool for tone, moving between intense and light play.
 
 ### Taking Suspense
 
@@ -71,13 +67,13 @@ _Question_ players to help suss out what kind of story they're interested in, sh
 
 **Use a story roll to determine how a scene starts off when it’s unclear.**
 
-_Set The Scene_ when you're unsure about the specifics of the current fiction or want to dive straight into the action. Skip detailed planning and cautious leadups that often drag gameplay down. Instead, jump straight into the action, an in medias res shot of things already in motion! The roll sets the opening mood and stakes for the scene. On a grim, it can even trigger an impact move, kicking things off with a bang and raising tension right away.
+_Set The Scene_ when you're unsure about the specifics of the current fiction or want to dive straight into the action. Skip detailed planning and cautious leadups that often drag gameplay down. Instead, **_jump straight into the action_**, an in medias res shot of things already in motion! The roll sets the opening mood and stakes for the scene. On a grim, it can even trigger an impact move, kicking things off with a bang and raising tension right away.
 
 ### Spotlight
 
 **Focus attention on a PC, encouraging them to act or follow-up.**
 
-_Spotlight_ PCs to help direct the action, ensure no one is left out, and put focus where it's needed. This prompts players towards action. Mix in cinematic language like "We cut to..." or "The camera pans over to show..." as you use the "camera", your group's shared imagination space. Cut back and forth between PCs and scenes to build tension and avoid focusing on a single PC for too long.
+_Spotlight_ PCs to help direct the action, ensure no one is left out, and put focus where it's needed. This prompts players towards action. Mix in cinematic language like "_We cut to..._" or "_The camera pans over to show..._" as you use the "camera", your group's shared imagination space. Cut back and forth between PCs and scenes to build tension and avoid focusing on a single PC for too long.
 
 ### Wrap It Up
 
@@ -93,7 +89,7 @@ Create familiar moments inspired by TV shows, incentivizing you mechanically to 
 
 **Resolve a problem the PCs face or use exposition to connect some dots.**
 
-_Bridge_ a scene when players are stuck, backed into a corner, or a scene feels dull. It provides a quick out and moves the story forward. Normally, it would feel like an unearned freebie, the suspense you gain makes it a fair trade. Never use it when players are engaged — save it for when it's needed.
+_Bridge_ a scene when players are stuck, backed into a corner, or a scene feels dull. It provides a quick out and moves the story forward. Normally, it would feel like an unearned freebie, the suspense you gain makes it a **_fair trade_**. Never use it when players are engaged — save it for when it's needed.
 
 ### Buildup
 
