@@ -1,6 +1,7 @@
 ---
 title: 'Spellcasting'
 sourcebook: 'Grimwild'
+description: 'Comprehensive rules for spellcasting in Grimwild, covering magic magnitudes, touchstones, spell types, rulings, rituals, and guidelines for creative and balanced use of magic in play.'
 ---
 
 **Spellcasting** is the ability to harness magic, acquired through talents or arcana. While each style has its quirks, they all follow the same _laws of magic_. Spells are cast using **touchstones** — key terms like spell names, godly domains, or item descriptions. You interpret these on-the-fly, defining the permissions and limitations of your magic when you cast. Each source clearly defines its touchstones, casting methods, and costs.
@@ -36,7 +37,7 @@ The GM uses the guideline and examples on these pages to set the line between sp
 
 ## Touchstones
 
-Spellcasting ability comes with touchstones and all magic effects must logically align with them, making sense and feeling natural. If it feels like a _reach_, it’s beyond the touchstone’s bounds.
+Spellcasting ability comes with touchstones and all magic effects must logically align with them, making sense and feeling natural. If it feels like a _reach_, it's beyond the touchstone's bounds.
 
 **_The GM can veto spells that don't align with your touchstones_**. They can also instead allow it, but inflict a thorn or collateral effects when it's pushing your touchstones, but not _completely_ implausible.
 

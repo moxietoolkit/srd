@@ -1,6 +1,7 @@
 ---
 title: 'Damage & Recovery'
 sourcebook: 'Grimwild'
+description: 'Rules for handling damage, recovery, marks, harm, vex, conditions, treatment, rest, and downtime in Grimwild. Covers how injuries and emotional effects impact characters, and how they are healed or resolved.'
 ---
 
 ## Marks
