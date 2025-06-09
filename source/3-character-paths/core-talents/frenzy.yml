@@ -1,6 +1,6 @@
 - name: Frenzy
   type: core
-  path: beserker
+  path: berserker
   sourcebook: Grimwild
   summary: |
     Frenzy: Once per session, or when you get bloodied or take vex, you can enter a frenzy for a scene. During the frenzy, you can only take aggressive actions. You also:
@@ -9,7 +9,7 @@
     - Always get a final action when dropped. On a critical, ignore getting dropped.
     You can only exit a frenzy when: _no challenger stands before you_—_get dropped_—_push yourself_. [Growth: 3 levels/1 free activation of frenzy per session]
   description: |
-    Once per session, or when you get bloodied or take vex, you can enter a **frenzy** for a scene. During the frenzy, you can only take aggressive actions. You also: 
+    Once per session, or when you get bloodied or take vex, you can enter a **frenzy** for a scene. During the frenzy, you can only take aggressive actions. You also:
     - Take +1d for each mark you have and ignore all thorns from harm and marks.
     - Inflict **_collateral damage_** on each action roll, regardless of the outcome. You must choose one: _send something flying_—_smash mooks_—_throw insults_—_wreck something_.
     - Always get a final action when dropped. On a critical, ignore getting dropped.

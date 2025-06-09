@@ -18,11 +18,11 @@ The rules are a flexible framework and designed not to cover every detail. When 
 
 ## Pace The Game Cinematically
 
-Keep the game flowing like a well-paced movie. Don't let scenes drag, wrap it up to move on to something more interesting. If players don't seem keen on an upcoming situation, suggest a montage. Skip long planning phases by cutting to the action with a _Set the Scene_ move. Reward players buying into these techniques by giving them good odds.
+Keep the game flowing like a well-paced movie. Don't let scenes drag, _Wrap It Up_ to move on to something more interesting. If players don't seem keen on an upcoming situation, suggest a montage. Skip long planning phases by cutting to the action with a _Set the Scene_ move. Reward players buying into these techniques by giving them good odds.
 
 ## Follow The Players' Lead
 
-Keep tabs on story arcs and present drama, dilemmas, and opportunities related to them. Follow where the characters want to go. Present interesting situations related to it. When players hesitate or hit an impasse, spur them into action with danger timers, quarrels, _Entangles_, or _Bridge_ and move on.
+Keep tabs on story arcs and present _drama_, _dilemmas_, and _opportunities_ related to them. Follow where the characters want to go. Present interesting situations related to it. When players hesitate or hit an impasse, spur them into action with danger timers, quarrels, _Entangles_, or _Bridge_ and move on.
 
 ## Use The Moves, Or Don't
 

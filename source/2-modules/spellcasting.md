@@ -1,6 +1,7 @@
 ---
 title: 'Spellcasting'
 sourcebook: 'Grimwild'
+description: 'Comprehensive rules for spellcasting in Grimwild, covering magic magnitudes, touchstones, spell types, rulings, rituals, and guidelines for creative and balanced use of magic in play.'
 ---
 
 **Spellcasting** is the ability to harness magic, acquired through talents or arcana. While each style has its quirks, they all follow the same _laws of magic_. Spells are cast using **touchstones** — key terms like spell names, godly domains, or item descriptions. You interpret these on-the-fly, defining the permissions and limitations of your magic when you cast. Each source clearly defines its touchstones, casting methods, and costs.
@@ -36,7 +37,7 @@ The GM uses the guideline and examples on these pages to set the line between sp
 
 ## Touchstones
 
-Spellcasting ability comes with touchstones and all magic effects must logically align with them, making sense and feeling natural. If it feels like a _reach_, it’s beyond the touchstone’s bounds.
+Spellcasting ability comes with touchstones and all magic effects must logically align with them, making sense and feeling natural. If it feels like a _reach_, it's beyond the touchstone's bounds.
 
 **_The GM can veto spells that don't align with your touchstones_**. They can also instead allow it, but inflict a thorn or collateral effects when it's pushing your touchstones, but not _completely_ implausible.
 
@@ -70,7 +71,9 @@ Anyone aware that something is magic can try to dispel it. This does not require
 
 ### Healing Magic
 
-Spells can clear marks, heal minor conditions or immediate conditions _(4d bleeding out)_, or calm a vex response. Potent spells can pull off +3t/impossible healing, such as roll a healing pool _(bloodied, rattled)_ or mending broken bones _(but not a severed arm)_. Rituals are needed for things like regrowing limbs, curing blindness, or removing deep trauma.
+Spells can clear marks, heal minor conditions, or calm a vex response. Potent spells can pull off +3t/_impossible_ healing, such as healing
+harm instantly or curing major conditions (_mend
+a broken bone, but not a severed arm_). Rituals are needed for more extreme conditions like regrowing limbs, curing blindness, or removing deep trauma.
 
 ### Resurrection
 
@@ -100,7 +103,7 @@ Enemy magic doesn't follow the same rules as PC magic. It manifests through GM m
 
 **Rituals** can accomplish magical effects far beyond what can be done with even potent spells, equal to the labor of an entire team of people over an extended period, effects that can have significant impact on the world, or push the very limits of implausibility. **Casting a ritual consists of 3 parts**:
 
-- Possess a **source** of magic with relevant touchstones.
+- Possess a **source of magic** with relevant touchstones.
 - **Anchor** the ritual to the physical and metaphysical realms.
 - Complete the ritual's **rites** to finalize its casting.
 

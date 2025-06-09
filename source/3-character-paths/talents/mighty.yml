@@ -1,6 +1,6 @@
 - name: Mighty
   type: basic
-  path: beserker
+  path: berserker
   sourcebook: Grimwild
   description: |
     When given time, you can pull off **_potent feats of raw strength_**. You can **push yourself** to do it on the spot.

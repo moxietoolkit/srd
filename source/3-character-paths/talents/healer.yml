@@ -3,4 +3,4 @@
   path: cleric
   sourcebook: Grimwild
   description: |
-    When you heal someone, through treatment or magic, they drop 2d before rolling the pool. If it depletes from your care, **take spark**.
+    You take +1d when you heal someone, with magic or treatment. On a critical, both of you **take spark**.

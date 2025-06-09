@@ -78,7 +78,7 @@ Think of the game as a series of improv prompts, posed by yourselves and the rul
 
 ## Play Characters That Grow
 
-**_Leave lots of blank space._** Your PC starts with apast and connections to the world, but it's best as latticework. Learn who they are through play. Leave space for the other PCs and story to fit in.
+**_Leave lots of blank space._** Your PC starts with a past and connections to the world, but it's best as latticework. Learn who they are through play. Leave space for the other PCs and story to fit in.
 
 **_Don’t be afraid to change._** PCs often go through hell. Any dramatic story has adversity. Let what happens change who they are. Announce what your PC's thinking, especially big shifts. If nobody else at the table knows, it’s not really happening in that shared imagination.
 
@@ -137,11 +137,11 @@ When you **share the risk**, you open yourself up to the consequences, which can
 
 ## Teamwork
 
-When 3+ PCs work togetherm the GM picks who rolls the action - sometimes the most skilled, sometimes the least. The other PCs assist.
+When 3+ PCs work together, the GM picks who rolls the action - sometimes the most skilled, sometimes the least. The other PCs assist.
 
 ## Setup
 
-When a previous action makes a follow-up more effect, you assist without risk. You roll 1d as a normal assist, but don't share the risk.
+When a previous action makes a follow-up more effective, you assist without risk. You roll 1d as a normal assist, but don't share the risk.
 
 ## Outside Assistance
 
@@ -156,7 +156,7 @@ Sourcebook: Grimwild
 
 ## Action Roll
 
-Roll to pull off something risky. State **how & why**, calrifying your intent. The GM picks the stat that matches your intentions.
+Roll to pull off something risky. State **how & why**, clarifying your intent. The GM picks the stat that matches your intentions.
 
 - **Perfect**: You do it, and avoid trouble.
 - **Messy**: You do it, but there's trouble. _Prompts an impact move_.
@@ -172,13 +172,13 @@ Roll to avoid incoming trouble, **_but only when not caused by your own action_*
 - **Messy**: You avoid the brunt of the trouble. _The GM lightens the consequences_.
 - **Grim**: You fail to avoid trouble. _The GM follows through on the move_.
 
-The GM calls for defense rolls when they target you directly with an impact move. On a messy, there's still some trouble, like taking lesser damage, losing the chance to act or being in a worse position.
+The GM calls for defense rolls when they target you directly with an impact move. On a messy, there's still some trouble, like taking lesser damage, losing the chance to act, or being in a worse position.
 
 **_Defense is cinematic - a reaction, out of your hands_**. The GM picks the stat to fit the danger, your PC's likely reaction, vulnerabilities, and what feels right for the moment. This keeps it varied - you can't always use a strong stat.
 
 ## Montage Roll
 
-Roll to condense a seequence you don't want to play out in detail, but still want to leave it up to the dice. **_Roll 2d_**, resolving it all as a single action roll, then narrate a few beats. Keep things moving or zoom in on a grim.
+Roll to condense a sequence you don't want to play out in detail, but still want to leave up to the dice. **_Roll 2d_**, resolving it all as a single action roll, then narrate a few beats. Keep things moving or zoom in on a grim.
 
 If multiple PCs join, **_each rolls 2d and shares the risk_**. Collaborate on the results. 6s on separate rolls don't count towards criticals.
 ---
@@ -191,13 +191,13 @@ Sourcebook: Grimwild
 
 ## Pools
 
-A set of d6s used to track things like time, resources or effort. When triggered, roll the pool and **drop** 1d for each 1-3 result. At 0d, the pool depletes and the fiction changes.
+A set of d6s used to track things like time, resources, or effort. When triggered, roll the pool and **drop** 1d for each 1-3 result. At 0d, the pool depletes and the fiction changes.
 
-The size of a pool is **4d**/_short_, **6d**/_mid_, or **8d**/_long_. At **0d**, an event occurs, a situation ends or a resource is depleted. Make sure to reflect the fiction - if a pool and the fiction don't match up, adjust or scrap the pool.
+The size of a pool is **4d**/_short_, **6d**/_mid_, or **8d**/_long_. At **0d**, an event occurs, a situation ends, or a resource is depleted. Make sure to reflect the fiction - if a pool and the fiction don't match up, adjust or scrap the pool.
 
-- If not dice are dropped from a task pool on a messy or perfect action roll, instead take a **secondary effect**. If the roll was only 1d, you can instead **push yourself** to drop the last die.
+- If no dice are dropped from a task pool on a messy or perfect action roll, instead take a **secondary effect**. If the roll was only 1d, you can instead **push yourself** to drop the last die. In similar cases, the GM can **spend suspense** to drop the last die.
 
-- **Drop** 1d from the pool before rolling it when a talent tells you to do so, you have potency or you take the _greater effect_ critical bonus. This stacks.
+- **Drop** 1d from the pool before rolling it when a talent tells you to do so or you take the _greater effect_ critical bonus. This stacks.
 
 Pools can be flexibly applied in many situations, usually by the GM. Some typical pools are listed below.
 
@@ -230,7 +230,7 @@ Sourcebook: Grimwild
 
 Your character's frame of reference, the sum of their backstory, talents, and the current fiction - everything on your sheet and what's affecting you in the story. When a question arises about what you can do, have, or know, check it against your vantage: does it feel like a **_given_**, a **_stretch_** or a **_reach_**?.
 
-**Proper vantage** opens up possibilities and gives the freedom to declare story details. Lacking it makes things fore difficult, or even impossible.
+**Proper vantage** opens up possibilities and gives the freedom to declare story details. Lacking it makes things more difficult, or even impossible.
 
 ## Tools Of The Trade
 
@@ -238,7 +238,7 @@ You're assumed to have the gear and skills that are a given for your vantage. Th
 
 ## Details
 
-Use the details on your sheet as creative inspiration - _and limitations!_ - for roleplaying. They are player _(not GM)_ tools. When unsure of your PC's actions or thoughts, play towards or even against a relevant detail. Update details as the story unfolds, announcing the change and giving a vignette to _give it weight_ and _clearly convey_ the change to the other players.
+Use the details on your sheet as creative inspiration - _and limitations!_ - for roleplaying. They are player (_not GM_) tools. When unsure of your PC's actions or thoughts, play towards or even against a relevant detail. Update details as the story unfolds, announcing the change and giving a vignette to _give it weight_ and _clearly convey_ the change to the other players.
 ---
 
 > [!WARNING]
@@ -257,7 +257,7 @@ Choose 2 that strongly define you and 1 that definitely doesn't.
 
 ## Desires
 
-Choose 2 that you strong desire and 1 that you don't at all.
+Choose 2 that you strongly desire and 1 that you don't at all.
 
 ## Features
 
@@ -265,7 +265,7 @@ Detail your 3 most distinctive, outward features that others quickly notice.
 
 ## Talents
 
-Special advantages and abilities that set your PC apart. At character creation, you choose a **path**, which gives you its core talent and a list of talents that align thematicalyl with it. You gain new talents as you level, choosing from your path list or taking talents from other paths.
+Special advantages and abilities that set your PC apart. At character creation, you choose a **path**, which gives you its core talent and a list of talents that align thematically with it. You gain new talents as you level, choosing from your path list or taking talents from other paths.
 
 The path name is simply a label for organizing talents thematically. On its own, it doesn't expand vantage. However, talents to expand vantage.
 
@@ -357,29 +357,32 @@ Story arcs signal to the GM that you want **_drama, dilemmas_** and **_opportuni
 > [!WARNING]
 > This is a generated file. Any changes should be made to the source files.
 
-# Damage
+# Damage & Recovery
 Sourcebook: Grimwild
 
 ## Marks
 
-Lesser damage, a temporary hindrance to a stat. **_Take +1t on the next roll with that stat, then clear the mark._**
+Light damage, a temporary hindrance to a stat. **_Take +1t on the next roll with that stat, then clear the mark._**
 
-If a stat is already marked, mark its paired stat instead. If both are already marked, take the related **harm**. Note that a mark can be taken even if you have the related harm.
+If a stat is already marked, you take **harm**  instead. As long as a stat is unmarked, even if you have its related harm, you can take a mark to it.
 
 Marks are often combined with another mark or other consequences when inflicted directly. You also take a mark when you **push yourself**.
 
 ## Harm
 
-A hard hit your mind or body, general damage that doesn't need to be tracked in detail. **_This is the default damage from an impact move_**.
+Heavy damage to your mind or body, a lingering hindrance. **_This is the default damage from an impact move_** - though it can be split into
+a couple of marks or other consequences.
 
-- Physical damage leaves you **bloodied**
-- Mental damage leaves you **rattled**
+- Heavy physical damage or stacked marks to Brawn or Agility leave you **bloodied**.
+- Heavy mental damage or stacked marks to Wits or Presence leave you **rattled**.
 
-**_Bloodied and rattled each inflict +1t on all rolls_**. However, when you have harm, you ignore thorns from marks to the related stats and the marks don't clear. Getting bloodied or rattled a second time leaves you **dropped** - you're out of the scene. Make a story roll (_usually 2d_) to see if you're just out temporarily, take a condition, or wind up dead.
+**_Bloodied and rattled inflict +1t each on all rolls._** Taking a type of harm for the second time leaves you dropped - you're out of the scene. Make a story roll (usually 2d) - on a perfect, you're merely out until the scene ends. On a messy, things get **_even worse_**, like also taking on a condition (_4d dying_, _broken leg_, _trauma_). On a grim, things get far worse, like dying or taking on a permanent condition (_insanity_, _morality shift_).  Damage should match the tone of the scene - **tame stakes** might inflict a mark, while **dire stakes** might inflict both harm and dropped at once.
 
-Although bloodied and rattled are the default, especially dangerous attacks with **high risk** can lead straight to dropped, while **low risk** situations might leave you with a mark by default.
+## Vex
 
-A messy defense roll leaves you with lesser damage - dropped becomes bloodied, rattled becomes a mark.
+An intense flash of emotion like _anger, fear, or confusion_. Vex is inflicted as a consequence, sometimes in addition to a mark or harm. Vex prompts an immediate, instinctive response. Choose one from **fight, flight, freeze** or **freakout**.
+
+Interpret the response, which usually lasts a beat or two. Your PC is driven by _emotion_, but you decide how it plays out. Aim to balance what's fun, what fits the story, and what flows from the emotion.
 
 ## Conditions
 
@@ -390,38 +393,27 @@ Specific injuries or maladies that impact only relevant situations and are often
 - **_Long-term_**.
 - **_Permanent_**.
 
-**_Take +1t when a condition specifically hinders a roll_**. It can also make an attempt impossible.
+**_Take +1t when a condition specifically hinders a roll_**. Conditions can also reduce your vantage, which can prohibit a roll.
 
 Conditions clear when it makes sense, life after a scene, with rest, or when a pool tracking them depletes. They may also require treatment or another specific method to clear them.
 
 **_You have final say on long-term and permanent conditions_**. When you take one, work with the GM to find a good fit for your PC and the situation.
 
-## Vex
+## Treatment
 
-An intense flash of emotion like _anger, fear, or confusion_. Vex is inflicted as a consequence, sometimes in addition to a mark or harm. **_You can also spend spark to take vex in place of rattled_**, if it fits the situation. Vex prompts an immediate, instinctive response. Choose one from **fight, flight, freeze** or **freakout**.
+Harm can be cleared with **_treatment_**, which requires _time_, _tools_,  and _training_. Treatment always carries risk, requiring an action roll. On a messy, they recover but other problems arise (_left with a mark_, _takes longer than expected_). On a grim, you aggravate the situation (_long-term condition_, _death_).
 
-Interpret the response. Your PC is _driven by emotion_, but you decide how it plays out. Aim to balance what's fun and what fits the story. **_If there's a follow-up roll, take +1t on it_**. After the response, which always takes a beat or two, clear the vex.
----
+**_Marks can't benefit from treatment_**. They are light enough already that only time heals them; cleared with rest, rolling, or specific talents.
 
-> [!WARNING]
-> This is a generated file. Any changes should be made to the source files.
-
-# Recovery
-Sourcebook: Grimwild
-
-## Healing
-
-**_When you get bloodied or rattled, start a 4d pool_** to track its healing. When you **heal** harm from rest, treatment, or another source, roll the pool. At 0d, clear the harm. **_Treatment_** requires _time, tools, training_ and carries risk, and each pool can benefit from treatment only a single time.
-
-**_Marks can't benefit from treatment_**. They are light enough already that only time heals them. They can only be cleared with rest, talents or rolling.
+**_Conditions can be treated when it makes sense_**, which might require working towards a task pool or fulfilling specific requirements before it clears.
 
 ## Rest
 
-A stretch of time between significant action. Paced for drama, not realism. Clear all marks and heal (roll pools).
+A stretch of time between significant action. Paced for drama, not realism. **_Clear all marks and harm_**.
 
 ## Downtime
 
-Extended breaks. Fully heal and reset per-session talents. The GM rolls faction pools. After, they pick and deplete one to move the story forward. You can roll a montage to achieve something non-pivotal.
+Extended breaks. Fully heal, including relevant conditions, and reset per-session talents. The GM rolls faction pools, then picks one and depletes it completely to move the story forward.
 ---
 
 > [!WARNING]
@@ -438,17 +430,31 @@ The ability to pull off _jaw-dropping_ feats. When you have potency on a task, y
 - **_Stretching Limits_**: Something just beyond normal human limitations.
 - **_Mystical_**: Feats that don't fit in with the above, but have a similar narrative impact.
 
-Potency is only concerned with difficulty. It makes a normally +3t/_impossible_ roll possible at +0t. On a +1t/_very tough_ or +2t/_extremely tough_ roll, you take _greater effect_ (critical). On a +0t roll, you automatically succeed.
+Potency is only concerned with difficulty thorns. It alters rolls with thorns from difficulty as such:
+
+- **+3t**/impossible rolls become +0t/_tough_.
+- **+1t**/**+2t** rolls become +0t/_tough_.
+- **+0t** rolls are automatically successful if there are no thorns from other sources.
+- On a messy or perfect on a +0t/+1t/+2t (from
+difficulty) you gain greater effect (as a critical).
 
 There's a _gray zone_ between jaw-dropping and too much. Something +3t is ok, but +4t is too far.
 
 ## Power Pools
 
-The power of some talents or items, rolled as part of using it or in place of a stat. The same roll determines the outcome and drops dice from the pool. **_You can roll fewer dice to risk losing less_**. Roll when the talent or item is used.
+The power of some talents or items, rolled in place of a stat. The same roll determines the outcome and drops dice from the pool. Even if it's automatically successful, still roll the pool when used and drop dice. You must roll all dice in the pool. The talent or item is used.
+
+## Interrupt
+
+Make an action roll to try to stop an impact move. This requires a specific talent. If not already involved, you now share the risk. On a messy, the GM takes or keeps suspense.
 
 ## Buffs
 
 Beneficial effects that expand vantage, ease tasks, make rolls unnecessary, or provide outside assistance. If you give a buff to an ally that persists in your absence, you can assist relevant rolls without risk.
+
+## Spark
+
+Spark carries over each session and you can spend multiple spark on a single roll.
 
 ## Quarrels
 
@@ -460,36 +466,24 @@ The winner narrates how they won. Then, the loser narrates how they handle losin
 
 Expend extra effort to activate certain talents that require it. After using the talent, **_mark a related stat_** (_your choice_). Talents that require you to push yourself can be activated without a mark once per session.
 
-## Interrupt
-
-Make an action roll to try to stop an impact move. This requires a specific talent. If not already involved, you now share the risk. On a messy, the GM takes or keeps suspense.
-
 ## Always
 
 If you have the ability to **_always_** succeed or receive a benefit, it holds true **_unless_** the GM makes a **Counter** move, a strong NPC trait is in play, or other extenuating circumstances arise. _In short, "always" means 95% of the time._
 
+## Pre-session recap
+
+Before each session (after
+the first), recall the previous session and share your PC's best moment. Each player takes spark. When all are finished, the GM Recaps (taking suspense) tying all of these moments together into a proper "Previously on..." and starts the session.
+
+## Post-session XP
+
+After each session, **_take 1 XP_** and fill in its box. You start at level 1 and advance when you fill boxes equal to the next level (Lvl. 4 to 5 = 5 more boxes). This lets you choose a **_new talent_**.
+
+**_The GM can award 1 bonus XP for a standout session_** (_about 1 in 4_). For a slower pace, slash each XP box before filling it.
+
 ## Level
 
-A PC starts at level 1 and can go up to level 7. This takes 6 months of weekly play. For longer play, slow down progression (_below_).
----
-
-> [!WARNING]
-> This is a generated file. Any changes should be made to the source files.
-
-# Beginning & Ending Sessions
-Sourcebook: Grimwild
-
-## Pre-Session Recap
-
-Before each session (afterthe first), recall the previous session and share your PC's best moment. **_Each player takes spark._** When all are finished, the GM **recaps** (_taking suspense_) tying all of these moments together into a proper _"Previously on..."_ and starts the session.
-
-**_Note_**_: Spark carries over and story resets each session._
-
-## Post-Session XP
-
-After each session, **_take 1 XP_** and fill in its box. You start at level 1 and advance when you fill boxes equal to the next level _(Lvl. 4 to Lvl. 5 means 5 more boxes)_. This lets you choose a **_new talent_**.
-
-**_The GM can award 1 bonus XP for a standout session_** _(about 1 in 4)_. For a slower pace, slash each XP box before filling it.
+A PC starts at level 1 and can go up to level 7. This takes 6 months of weekly play. For longer play, slow down progression.
 ---
 
 > [!WARNING]
@@ -530,9 +524,9 @@ A forge for inspiration, encouraging emergent, low-prep gameplay. Turn to the GM
 # Moves
 Sourcebook: Grimwild
 
-A framework for good GMing practices and **_the rules that you, the GM, play by_**. While they can be called out specificallym they typically sit in the background left unsaid, aligning naturally with what you do as GM.
+A framework for good GMing practices and **_the rules that you, the GM, play by_**. While they can be called out specifically, they typically sit in the background left unsaid, aligning naturally with what you do as GM.
 
-- **_Story moves_** set up scenes and pace the game. They hint at problems and give players a chance to react to what's happening. _Make theses moves as you like at any time._
+- **_Story moves_** set up scenes and pace the game. They hint at problems and give players a chance to react to what's happening. _Make these moves as you like at any time._
 - **_Suspense moves_** help the players out in some way or escalate tension. **_Take suspense when used._** _Make these moves with good timing._
 - **_Impact moves_** deal significant consequences, crank up the tension, and make the world feel powerful. _Make these moves when prompted._
 
@@ -554,13 +548,9 @@ What happens when things go wrong — from failed rolls, timers, or impact moves
 
 Damage is a solid baseline: in a fight, injuries leave you bloodied by default. Other consequences, even narrative ones, should sting just as much. There’s no strict formula — _it’s a gut feeling_. Let the fiction guide you, and make sure to give the fiction its teeth.
 
-### Splitting It
+**_You can split consequences, breaking big consequences into smaller ones._** Multiple effects can be just as effective and make more sense in the situation. You might break up bloodied into a few marks, or rattled becoming vex and rolling a pool instead. Splits make the story move in multiple directions.
 
-Breaking big consequences into smaller ones. Multiple effects can be just as effective and make more sense in the situation. You might break up bloodied into a few marks, or rattled becoming vex and rolling a pool instead. Splits make the story move in multiple directions
-
-### Spreading It
-
-Hitting multiple PCs, nearby NPCs, or even a PC who didn't prompt the move. Consequences can be identical, vary in severity, or differ entirely. If a PC other than the one prompting it is hit, they get a defense roll. Spreads make the impact feel broader and pulling more people into a dynamic scene.
+You can also spread consequences, hitting multiple PCs, nearby NPCs, or even a PC who didn't prompt the move. Consequences can be identical, vary in severity, or differ entirely. If a PC other than the one prompting it is hit, they get a defense roll. Spreads make the impact feel broader and pulling more people into a dynamic scene.
 
 ### Thinking Offscreen
 
@@ -570,9 +560,9 @@ Fallout that happens beyond the immediate action. Not all consequences need to o
 
 Building pressure with danger or timer pools. Start or roll a danger or timer pool as another outlet for consequences, often **_offscreen_**. These create looming threats and situations the PCs want to avoid or mitigate. They build pressure and offer a strong alternative to skipping the move and banking suspense.
 
-### Setting Risk
+### Stakes
 
-Framing danger when it's not the default. Most rolls assume meaningful consequences. Declaring high risk before a roll or situation signals severe stakes—death or worse looms. Low risk shifts outcomes into lighter territory, rolling for things you'd normally skip, with softer consequences. It's a tool for tone, moving between intense and light play.
+Framing danger when it's not the default. Most rolls assume meaningful consequences. Declaring **dire stakes** before a roll or situation signals severe stakes - death or worse looms. **Tame stakes** shifts outcomes into lighter territory, rolling for things you'd normally skip, with softer consequences. It's a tool for tone, moving between intense and light play.
 
 ### Taking Suspense
 
@@ -598,13 +588,13 @@ _Question_ players to help suss out what kind of story they're interested in, sh
 
 **Use a story roll to determine how a scene starts off when it’s unclear.**
 
-_Set The Scene_ when you're unsure about the specifics of the current fiction or want to dive straight into the action. Skip detailed planning and cautious leadups that often drag gameplay down. Instead, jump straight into the action, an in medias res shot of things already in motion! The roll sets the opening mood and stakes for the scene. On a grim, it can even trigger an impact move, kicking things off with a bang and raising tension right away.
+_Set The Scene_ when you're unsure about the specifics of the current fiction or want to dive straight into the action. Skip detailed planning and cautious leadups that often drag gameplay down. Instead, **_jump straight into the action_**, an in medias res shot of things already in motion! The roll sets the opening mood and stakes for the scene. On a grim, it can even trigger an impact move, kicking things off with a bang and raising tension right away.
 
 ### Spotlight
 
 **Focus attention on a PC, encouraging them to act or follow-up.**
 
-_Spotlight_ PCs to help direct the action, ensure no one is left out, and put focus where it's needed. This prompts players towards action. Mix in cinematic language like "We cut to..." or "The camera pans over to show..." as you use the "camera", your group's shared imagination space. Cut back and forth between PCs and scenes to build tension and avoid focusing on a single PC for too long.
+_Spotlight_ PCs to help direct the action, ensure no one is left out, and put focus where it's needed. This prompts players towards action. Mix in cinematic language like "_We cut to..._" or "_The camera pans over to show..._" as you use the "camera", your group's shared imagination space. Cut back and forth between PCs and scenes to build tension and avoid focusing on a single PC for too long.
 
 ### Wrap It Up
 
@@ -620,7 +610,7 @@ Create familiar moments inspired by TV shows, incentivizing you mechanically to 
 
 **Resolve a problem the PCs face or use exposition to connect some dots.**
 
-_Bridge_ a scene when players are stuck, backed into a corner, or a scene feels dull. It provides a quick out and moves the story forward. Normally, it would feel like an unearned freebie, the suspense you gain makes it a fair trade. Never use it when players are engaged — save it for when it's needed.
+_Bridge_ a scene when players are stuck, backed into a corner, or a scene feels dull. It provides a quick out and moves the story forward. Normally, it would feel like an unearned freebie, the suspense you gain makes it a **_fair trade_**. Never use it when players are engaged — save it for when it's needed.
 
 ### Buildup
 
@@ -722,7 +712,7 @@ Challenges are for moments of narrative importance. They make whatever you assig
 
 ## Linked Challenges
 
-**Linked challenges** are greater, more complex interactions, like epicly powerful enemies or unbelievably tense social situations. Each part of the whole has its own proactive presence in the scene. Give them traits that prompt impact moves, triggered by the fiction for dynamic interactions.
+**Linked challenges** are greater, more complex interactions, like epically powerful enemies or unbelievably tense social situations. Each part of the whole has its own proactive presence in the scene. Give them traits that prompt impact moves, triggered by the fiction for dynamic interactions.
 
 ## Examples
 
@@ -810,11 +800,11 @@ The rules are a flexible framework and designed not to cover every detail. When 
 
 ## Pace The Game Cinematically
 
-Keep the game flowing like a well-paced movie. Don't let scenes drag, wrap it up to move on to something more interesting. If players don't seem keen on an upcoming situation, suggest a montage. Skip long planning phases by cutting to the action with a _Set the Scene_ move. Reward players buying into these techniques by giving them good odds.
+Keep the game flowing like a well-paced movie. Don't let scenes drag, _Wrap It Up_ to move on to something more interesting. If players don't seem keen on an upcoming situation, suggest a montage. Skip long planning phases by cutting to the action with a _Set the Scene_ move. Reward players buying into these techniques by giving them good odds.
 
 ## Follow The Players' Lead
 
-Keep tabs on story arcs and present drama, dilemmas, and opportunities related to them. Follow where the characters want to go. Present interesting situations related to it. When players hesitate or hit an impasse, spur them into action with danger timers, quarrels, _Entangles_, or _Bridge_ and move on.
+Keep tabs on story arcs and present _drama_, _dilemmas_, and _opportunities_ related to them. Follow where the characters want to go. Present interesting situations related to it. When players hesitate or hit an impasse, spur them into action with danger timers, quarrels, _Entangles_, or _Bridge_ and move on.
 
 ## Use The Moves, Or Don't
 
@@ -1011,7 +1001,9 @@ Anyone aware that something is magic can try to dispel it. This does not require
 
 ### Healing Magic
 
-Spells can clear marks, heal minor conditions or immediate conditions _(4d bleeding out)_, or calm a vex response. Potent spells can pull off +3t/impossible healing, such as roll a healing pool _(bloodied, rattled)_ or mending broken bones _(but not a severed arm)_. Rituals are needed for things like regrowing limbs, curing blindness, or removing deep trauma.
+Spells can clear marks, heal minor conditions, or calm a vex response. Potent spells can pull off +3t/_impossible_ healing, such as healing
+harm instantly or curing major conditions (_mend
+a broken bone, but not a severed arm_). Rituals are needed for more extreme conditions like regrowing limbs, curing blindness, or removing deep trauma.
 
 ### Resurrection
 
@@ -1041,7 +1033,7 @@ Enemy magic doesn't follow the same rules as PC magic. It manifests through GM m
 
 **Rituals** can accomplish magical effects far beyond what can be done with even potent spells, equal to the labor of an entire team of people over an extended period, effects that can have significant impact on the world, or push the very limits of implausibility. **Casting a ritual consists of 3 parts**:
 
-- Possess a **source** of magic with relevant touchstones.
+- Possess a **source of magic** with relevant touchstones.
 - **Anchor** the ritual to the physical and metaphysical realms.
 - Complete the ritual's **rites** to finalize its casting.
 
@@ -1070,9 +1062,9 @@ Hauling treasure isn't a problem unless the GM specifically makes it one. You ca
 
 | Value        | Tangibles                                                        | Intangibles                                                               | Magic                                                            |
 | ------------ | ---------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------------------------------------------- |
-| **_Minor_**  | Gift, _noble_<br>Pet, _exotic_<br>Map, _detailed_                | Service, _highly skilled_<br>Mercenaries, _a few_<br>Provide help, _town_ | Arcana, _minor_<br>Casting, _spell_<br>Ritual, _simple_          |
-| **_Major_**  | Gift, _royal_<br>Estate, _spacious_<br>Sailing ship, _swift_     | Service, _very risky_<br>Mercenaries, _a squad_<br>Provide help, _city_   | Arcana, _major_<br>Casting, _potent spell_<br>Ritual, _moderate_ |
-| **_Mythic_** | Gift, _imperial_<br>Keep, _formidable_<br>Sailing ship, _mighty_ | Service, _unique_<br>Mercenaries, _an army_<br>Provide help, _kingdom_    | Arcana, _mythic_<br>Ritual, _complex_<br>Soul, _powerful_        |
+| **_Minor_**  | Gift, _noble_<br/>Pet, _exotic_<br/>Map, _detailed_                | Service, _highly skilled_<br/>Mercenaries, _a few_<br/>Provide help, _town_ | Arcana, _minor_<br/>Casting, _spell_<br/>Ritual, _simple_          |
+| **_Major_**  | Gift, _royal_<br/>Estate, _spacious_<br/>Sailing ship, _swift_     | Service, _very risky_<br/>Mercenaries, _a squad_<br/>Provide help, _city_   | Arcana, _major_<br/>Casting, _potent spell_<br/>Ritual, _moderate_ |
+| **_Mythic_** | Gift, _imperial_<br/>Keep, _formidable_<br/>Sailing ship, _mighty_ | Service, _unique_<br/>Mercenaries, _an army_<br/>Provide help, _kingdom_    | Arcana, _mythic_<br/>Ritual, _complex_<br/>Soul, _powerful_        |
 
 
 
@@ -1391,7 +1383,7 @@ You can fire each type of specialized ammo once per session. When you shoot, cho
 You can always appear in a scene exactly where and when you want, limited only by your physical capabilities. Make a 3d story roll to see if you're engaged as you enter.
 
 - **Type**: basic
-- **Path**: beserker
+- **Path**: bard
 - **Sourcebook**: Grimwild
 
 ---
@@ -1445,19 +1437,19 @@ Your presence instills fear in others. The GM judges an NPC's response, or you c
 [ ] **Push** (refresh: undefined)
 
 - **Type**: basic
-- **Path**: beserker
+- **Path**: berserker
 - **Sourcebook**: Grimwild
 
 ---
 
 ## Flesh Wounds
 
-When you take physical damage, only a disaster can drop you. You can get bloodied multiple times. Each extra time inflicts +1t on rolls and increases your heal pool by 4d. These extra thorns can never be ignored.
+When you take physical damage, only a disaster can drop you. You can get bloodied multiple times. Each extra time inflicts +1t on rolls. These extra thorns can never be ignored and they also apply thorns to any attempt to heal you.
 
 [ ][ ][ ][ ][ ] **Wounds** (refresh: undefined)
 
 - **Type**: basic
-- **Path**: beserker
+- **Path**: berserker
 - **Sourcebook**: Grimwild
 
 ---
@@ -1530,7 +1522,7 @@ Take +1d when you assist on a defense roll. If your dice come up as a 6, you bot
 
 ## Healer
 
-When you heal someone, through treatment or magic, they drop 2d before rolling the pool. If it depletes from your care, **take spark**.
+You take +1d when you heal someone, with magic or treatment. On a critical, both of you **take spark**.
 
 - **Type**: basic
 - **Path**: cleric
@@ -1540,7 +1532,7 @@ When you heal someone, through treatment or magic, they drop 2d before rolling t
 
 ## Healing Hands
 
-You can heal the bloodied pool of an ally. When you do, roll Presence as a defense roll against getting dropped—you take their pain onto yourself and must fend it off.
+You can heal an ally that is bloodied. This automatically works, but you must make a Presence defense roll against being bloodied—you take their pain onto yourself and must fend it off.
 
 - **Type**: basic
 - **Path**: monk
@@ -1593,7 +1585,7 @@ Twice per session, you can **_invoke an ally's bond with you_** to increase thei
 When you're the first into an intense situation, **_5s count as 6s_**, **_but 4s count as 1s_** on your first roll. You also **setup** the first person following you regardless of your roll outcome.
 
 - **Type**: basic
-- **Path**: beserker
+- **Path**: berserker
 - **Sourcebook**: Grimwild
 
 ---
@@ -1622,10 +1614,10 @@ Increase one of your stats that's a 1 to a 2. You also take +1d on montage rolls
 
 ## Joyful Warrior
 
-On a critical or when bloodied in battle, you **take spark** and can: _heal an ally_'_s rattled pool_—_bring a dropped_ (_not dead_) _ally back into the scene_.
+On a critical or when bloodied in battle, you **take spark** and can: _clear one mark from each ally_—_bring a dropped_ (_not dead_) _ally back into the scene_.
 
 - **Type**: basic
-- **Path**: beserker
+- **Path**: berserker
 - **Sourcebook**: Grimwild
 
 ---
@@ -1745,7 +1737,7 @@ When given time, you can pull off **_potent feats of raw strength_**. You can **
 [ ] **Push** (refresh: undefined)
 
 - **Type**: basic
-- **Path**: beserker
+- **Path**: berserker
 - **Sourcebook**: Grimwild
 
 ---
@@ -1809,7 +1801,7 @@ You can turn into a floating, dispersed form, flavored after your patron's trapp
 On a critical when bringing violence, threats, or destruction to bear, you can: _cause an extra secondary effect_—_roll a task pool twice_.
 
 - **Type**: basic
-- **Path**: beserker
+- **Path**: berserker
 - **Sourcebook**: Grimwild
 
 ---
@@ -1902,7 +1894,7 @@ When the GM spends suspense to prompt an impact move, you take +1d on any follow
 
 ## Regrowth
 
-When you heal bloodied, drop 1d then roll it. You can also give yourself treatment if you have _time_, no roll required.
+Once per scene, you may awaken a living natural feature - plants, animals, insects, fungi, or the like - within or nearby the scene. It gains awareness and purpose, forming a **_3d power pool_** you can direct, guided by its nature. One time only, you can make this a ritual-level effect.
 
 - **Type**: basic
 - **Path**: druid
@@ -2161,7 +2153,7 @@ Each session, you can sing **2 bardsongs**. Write down the composition of the on
 [ ][ ] **Warsongs** (refresh: undefined)
 
 - **Type**: basic
-- **Path**: beserker
+- **Path**: berserker
 - **Sourcebook**: Grimwild
 
 ---

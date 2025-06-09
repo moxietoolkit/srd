@@ -61,7 +61,7 @@ Think of the game as a series of improv prompts, posed by yourselves and the rul
 
 ## Play Characters That Grow
 
-**_Leave lots of blank space._** Your PC starts with apast and connections to the world, but it's best as latticework. Learn who they are through play. Leave space for the other PCs and story to fit in.
+**_Leave lots of blank space._** Your PC starts with a past and connections to the world, but it's best as latticework. Learn who they are through play. Leave space for the other PCs and story to fit in.
 
 **_Don't be afraid to change._** PCs often go through hell. Any dramatic story has adversity. Let what happens change who they are. Announce what your PC's thinking, especially big shifts. If nobody else at the table knows, it's not really happening in that shared imagination.
 
