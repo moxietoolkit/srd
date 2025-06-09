@@ -1,6 +1,7 @@
 ---
 title: 'Dice Rolls'
 sourcebook: 'Grimwild'
+metadescription: 'Details the different types of dice rolls in the Moxie system, including action, defense, and montage rolls, and how outcomes affect the story.'
 ---
 
 ## Action Roll

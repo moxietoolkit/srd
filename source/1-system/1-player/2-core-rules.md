@@ -1,6 +1,7 @@
 ---
 title: 'Core Rules'
 sourcebook: 'Grimwild'
+metadescription: 'Explains the core mechanics of the Moxie system, including dice rolls, outcomes, thorns, and how to keep gameplay smooth and dramatic.'
 ---
 
 ## Core Mechanic

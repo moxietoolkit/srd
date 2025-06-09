@@ -1,6 +1,7 @@
 ---
 title: 'Story Arcs'
 sourcebook: 'Grimwild'
+metadescription: 'Explore how to use story arcs in the Moxie tabletop RPG system to guide group and character development, create engaging narratives, and drive collaborative storytelling.'
 ---
 
 Evocative phrases that give your PC and group a thematic direction. Find out where they lead through play - they're a starting direction, not the destination.

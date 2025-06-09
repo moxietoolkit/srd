@@ -1,6 +1,7 @@
 ---
 title: 'GM With Moxie'
 sourcebook: 'Grimwild'
+metadescription: 'Get expert advice for Game Masters running the Moxie tabletop RPG system, including mapping fiction to rules, pacing, rulings, and player engagement.'
 ---
 
 ## Map Fiction To Rules

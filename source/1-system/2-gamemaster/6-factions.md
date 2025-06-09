@@ -1,6 +1,7 @@
 ---
 title: 'Factions'
 sourcebook: 'Grimwild'
+metadescription: 'Manage factions and campaign pools in the Moxie tabletop RPG system to create a living world, track goals, and drive off-screen developments.'
 ---
 
 Track off-screen developments of major forces, creating a feeling of a living world beyond the PCs. They have:
@@ -14,7 +15,7 @@ Keep 4-6 active factions, balancing major and minor ones, with competing goals. 
 
 ## Campaign Pools
 
-Timers that pace long-term events across sessions. They work like faction pools but don’t require faction details. Use them to signal upcoming events or remind you to reintroduce plotlines.
+Timers that pace long-term events across sessions. They work like faction pools but don't require faction details. Use them to signal upcoming events or remind you to reintroduce plotlines.
 
 ## Examples
 

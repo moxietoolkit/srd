@@ -1,6 +1,7 @@
 ---
 title: 'Vigilance'
 sourcebook: 'Grimwild'
+metadescription: 'Understand the vigilance mechanic in the Moxie tabletop RPG system, with tips for handling hidden dangers, foreshadowing, and player perception.'
 ---
 
 The assumed alertness of the PCs, avoiding overly cautious gameplay to keep the focus on the action.

@@ -1,6 +1,7 @@
 ---
 title: 'Working Together'
 sourcebook: 'Grimwild'
+metadescription: 'Describes how players can assist each other, work as a team, and use setup actions in the Moxie system for collaborative play.'
 ---
 
 ## Assist

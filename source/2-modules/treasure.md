@@ -1,6 +1,7 @@
 ---
 title: 'Treasure'
 sourcebook: 'Grimwild'
+metadescription: 'Discover how treasure and arcana work in the Moxie tabletop RPG system, including tiers, trading, carousing, magical items, and creative GM rulings.'
 ---
 
 Treasure is the currency of an adventurer, useful in trade with the powerful entities in the world to further your own aims. Your skills put you beyond worrying about the expenses of daily life and adventuring gear.
