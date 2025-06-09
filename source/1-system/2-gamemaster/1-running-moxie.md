@@ -1,6 +1,7 @@
 ---
 title: 'Running Moxie'
 sourcebook: 'Grimwild'
+metadescription: 'Master the art of running the Moxie tabletop RPG as a Game Master. Learn essential GM tools, narrative techniques, and tips for creating engaging, dynamic sessions.'
 ---
 
 As the GM, you play the game by a different set of rules, utilizing the tools laid out in this chapter to craft an engaging and dynamic game. You wield GM moves and suspense to drive the narrative forward, challenges to model difficult tasks, the combat kit to create thrilling battles, and story rolls along with the GM crucible for inspiration when the unexpected arises.

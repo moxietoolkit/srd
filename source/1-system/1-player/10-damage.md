@@ -1,6 +1,7 @@
 ---
 title: 'Damage'
 sourcebook: 'Grimwild'
+metadescription: 'Details the damage system in Moxie, including marks, harm, conditions, vex, and how they affect characters and gameplay.'
 ---
 
 ## Marks

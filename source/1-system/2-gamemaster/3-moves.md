@@ -1,6 +1,7 @@
 ---
 title: 'Moves'
 sourcebook: 'Grimwild'
+metadescription: 'Explore the full range of GM moves in the Moxie tabletop RPG system, including story, suspense, and impact moves for dynamic and cinematic game mastering.'
 ---
 
 A framework for good GMing practices and **_the rules that you, the GM, play by_**. While they can be called out specificallym they typically sit in the background left unsaid, aligning naturally with what you do as GM.
@@ -25,7 +26,7 @@ Skipping an impact move feels like the PCs got off lucky — something should ha
 
 What happens when things go wrong — from failed rolls, timers, or impact moves. They should feel **_hard but fair_**, reflecting the stakes and severity of the situation. Every roll carries risk; otherwise, assume success and move on.
 
-Damage is a solid baseline: in a fight, injuries leave you bloodied by default. Other consequences, even narrative ones, should sting just as much. There’s no strict formula — _it’s a gut feeling_. Let the fiction guide you, and make sure to give the fiction its teeth.
+Damage is a solid baseline: in a fight, injuries leave you bloodied by default. Other consequences, even narrative ones, should sting just as much. There's no strict formula — _it's a gut feeling_. Let the fiction guide you, and make sure to give the fiction its teeth.
 
 ### Splitting It
 
@@ -69,7 +70,7 @@ _Question_ players to help suss out what kind of story they're interested in, sh
 
 ### Set The Scene
 
-**Use a story roll to determine how a scene starts off when it’s unclear.**
+**Use a story roll to determine how a scene starts off when it's unclear.**
 
 _Set The Scene_ when you're unsure about the specifics of the current fiction or want to dive straight into the action. Skip detailed planning and cautious leadups that often drag gameplay down. Instead, jump straight into the action, an in medias res shot of things already in motion! The roll sets the opening mood and stakes for the scene. On a grim, it can even trigger an impact move, kicking things off with a bang and raising tension right away.
 
@@ -105,7 +106,7 @@ _Buildup_ to focus in tight on your PCs, and to create moments that set the stag
 
 **Narrate an info-rich scene elsewhere, clueing the players in.**
 
-_Cutaway_ to clue players in on the bigger picture, like a TV show scene. Show villains plotting, armies marching, or even positive events. It’s more fun when players know what's happening and they can steer their PCs' actions toward that drama, even if their characters don't explicitly know about it.
+_Cutaway_ to clue players in on the bigger picture, like a TV show scene. Show villains plotting, armies marching, or even positive events. It's more fun when players know what's happening and they can steer their PCs' actions toward that drama, even if their characters don't explicitly know about it.
 
 ### Entangle
 
@@ -147,7 +148,7 @@ _Force A Choice_ to present stark, binary decisions that they can't wiggle their
 
 **Inflict damage on a PC, like bloodied, rattled, vex, marks, or a condition.**
 
-_Hit 'Em Hard_ when you need to inflict direct consequences. Whether it’s damage, betrayal, or loss, this move underscores the seriousness of the situation. It's a heavy reminder that the world pushes back against their actions. When you use it, you should be hitting them just as hard as they're trying to hit the world.
+_Hit 'Em Hard_ when you need to inflict direct consequences. Whether it's damage, betrayal, or loss, this move underscores the seriousness of the situation. It's a heavy reminder that the world pushes back against their actions. When you use it, you should be hitting them just as hard as they're trying to hit the world.
 
 ### Lock It In
 

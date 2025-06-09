@@ -1,6 +1,7 @@
 ---
 title: 'Combat'
 sourcebook: 'Grimwild'
+metadescription: 'Master dynamic combat in the Moxie tabletop RPG system with GM tools, enemy tiers, roles, battlegrounds, and cinematic rulings for engaging battles.'
 ---
 
 ## Combat Kit

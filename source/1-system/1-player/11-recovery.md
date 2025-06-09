@@ -1,6 +1,7 @@
 ---
 title: 'Recovery'
 sourcebook: 'Grimwild'
+metadescription: 'Understand healing, rest, and downtime rules in the Moxie tabletop RPG system, including how to recover from damage and reset abilities for continued adventure.'
 ---
 
 ## Healing

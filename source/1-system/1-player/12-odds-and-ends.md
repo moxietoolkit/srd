@@ -1,6 +1,7 @@
 ---
 title: 'Odds & Ends'
 sourcebook: 'Grimwild'
+metadescription: 'Find essential additional rules and clarifications for the Moxie tabletop RPG system, covering potency, power pools, buffs, quarrels, and character progression.'
 ---
 
 ## Potency

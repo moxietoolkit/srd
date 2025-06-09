@@ -1,6 +1,7 @@
 ---
 title: 'Narrative Weight'
 sourcebook: 'Grimwild'
+metadescription: 'Covers the concept of vantage, tools of the trade, and how character details influence narrative possibilities and roleplaying in the Moxie system.'
 ---
 
 ## Vantage

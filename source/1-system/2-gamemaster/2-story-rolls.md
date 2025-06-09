@@ -1,9 +1,10 @@
 ---
 title: 'Story Rolls'
 sourcebook: 'Grimwild'
+metadescription: 'Discover how to use story rolls and the GM crucible in the Moxie tabletop RPG system to resolve narrative questions, inspire creativity, and drive emergent gameplay.'
 ---
 
-Roll to disclaim decision-making, letting the dice decide story questions when you don’t want to, like an NPC’s reaction, off-screen action, or how good or bad something that just happened is. You can also collapse any rule back to a story roll when there's no specific mechanic to map it to. Roll dice based on the odds of a favorable outcome for the chosen perspective. _Are you rolling for the fish or the fisherman?_
+Roll to disclaim decision-making, letting the dice decide story questions when you don't want to, like an NPC's reaction, off-screen action, or how good or bad something that just happened is. You can also collapse any rule back to a story roll when there's no specific mechanic to map it to. Roll dice based on the odds of a favorable outcome for the chosen perspective. _Are you rolling for the fish or the fisherman?_
 
 Use **1d for Bad Odds, 2d for Even Odds** and **3d for Good Odds**.
 

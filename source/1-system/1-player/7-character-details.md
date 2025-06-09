@@ -1,6 +1,7 @@
 ---
 title: 'Character Details'
 sourcebook: 'Grimwild'
+metadescription: 'Learn how to create compelling characters in the Moxie tabletop RPG system, including backgrounds, traits, desires, features, talents, stats, and bonds for immersive roleplaying.'
 ---
 
 ## Background

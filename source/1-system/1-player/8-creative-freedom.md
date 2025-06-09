@@ -1,6 +1,7 @@
 ---
 title: 'Creative Freedom'
 sourcebook: 'Grimwild'
+metadescription: 'Discover how to enhance your tabletop RPG sessions with creative freedom in the Moxie system, including set dressing, tangles, and story points for dynamic storytelling.'
 ---
 
 ## Set Dressing

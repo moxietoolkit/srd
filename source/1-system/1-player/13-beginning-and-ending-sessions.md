@@ -1,6 +1,7 @@
 ---
 title: 'Beginning & Ending Sessions'
 sourcebook: 'Grimwild'
+metadescription: 'Learn the best practices for starting and ending tabletop RPG sessions in the Moxie system, including session recaps, spark, and experience point rules.'
 ---
 
 ## Pre-Session Recap

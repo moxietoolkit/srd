@@ -1,6 +1,7 @@
 ---
 title: 'Diminishing Pools'
 sourcebook: 'Grimwild'
+metadescription: 'Explains the use of dice pools to track time, resources, danger, and progress in the Moxie system, including how pools deplete and affect gameplay.'
 ---
 
 ## Pools
